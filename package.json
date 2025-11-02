@@ -1,0 +1,14 @@
+{
+  "name": "trips-trails-api",
+  "version": "2.0.0",
+  "description": "API com trilhas e roteiros turísticos no Brasil e no mundo",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.21.2"
+  }
+}

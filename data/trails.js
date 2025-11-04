@@ -10,7 +10,7 @@ const trails = [
     rating: 4.8,
     coordinates: { lat: -20.4361, lon: -41.7901 },
     tags: ["montanha", "aventura", "natureza"],
-    image: "https://images.unsplash.com/photo-1593642532973-d31b6557fa68",
+    image: "https://i0.wp.com/guiapicodabandeira.com.br/wp-content/uploads/2022/10/ED4DBB19-E519-4CA3-87F5-9CA7468F69D5.png?fit=1024%2C700&ssl=1",
     description:
       "Uma das trilhas mais altas do Brasil, com 2.892 metros de altitude e vistas panorâmicas incríveis."
   },
@@ -25,7 +25,7 @@ const trails = [
     rating: 4.7,
     coordinates: { lat: -23.0717, lon: -43.5725 },
     tags: ["praia", "mirante", "aventura"],
-    image: "https://images.unsplash.com/photo-1517841905240-472988babdf9",
+    image: "https://freewalkertours.com/wp-content/uploads/2025/03/pedra-do-telegrafo-1-600x338-1.jpg",
     description:
       "Famosa pelas fotos vertiginosas, oferece uma vista incrível das praias cariocas e do pôr do sol."
   },
@@ -55,7 +55,7 @@ const trails = [
     rating: 5.0,
     coordinates: { lat: -51.0417, lon: -73.0692 },
     tags: ["montanha", "glacial", "aventura"],
-    image: "https://images.unsplash.com/photo-1508264165352-258859e62245",
+    image: "https://stingynomads.com/wp-content/uploads/2018/08/O-circuit-Torres-del-Paine-scenery.jpg.webp",
     description:
       "Uma das trilhas mais espetaculares da Patagônia, com picos nevados, lagos e campos de gelo."
   },

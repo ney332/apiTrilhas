@@ -40,7 +40,7 @@ const trails = [
     rating: 4.9,
     coordinates: { lat: -13.1631, lon: -72.5450 },
     tags: ["histórico", "montanha", "aventura"],
-    image: "https://images.unsplash.com/photo-1568795396300-00c9532a4b06",
+    image: "https://images.unsplash.com/photo-1664387518989-bb1d8574f078?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=80&w=688",
     description:
       "Trilha milenar usada pelos incas, cercada por ruínas e paisagens impressionantes até Machu Picchu."
   },

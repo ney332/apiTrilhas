@@ -70,7 +70,7 @@ const trails = [
     rating: 4.8,
     coordinates: { lat: 42.8782, lon: -8.5448 },
     tags: ["espiritual", "histórico", "cultural"],
-    image: "https://images.unsplash.com/photo-1579054263999-fb3e9a2452f4",
+    image: "https://essencianomade.com/wp-content/uploads/2018/09/Guia-Prático-O-Caminho-de-Santiago-de-Compostela-Capa.jpg",
     description:
       "Percurso histórico e espiritual feito por peregrinos há séculos, atravessando belas vilas e montanhas."
   },
@@ -85,39 +85,9 @@ const trails = [
     rating: 5.0,
     coordinates: { lat: 36.7783, lon: -119.4179 },
     tags: ["longa distância", "aventura", "deserto", "montanha"],
-    image: "https://images.unsplash.com/photo-1549893079-842e6aa9f4c2",
+    image: "https://drupal-prod.visitcalifornia.com/sites/default/files/styles/fluid_1920/public/vc_spotlight-pacificcresttrail_hero_pacificcrestagnewmeadows_st_rm_cnk4nh_1280x640.jpg.webp?itok=w8MJFdpZ",
     description:
       "Trilha icônica que cruza os EUA de sul a norte, passando por desertos, florestas e montanhas nevadas."
-  },
-  {
-    id: 1,
-    name: "Pico da Bandeira",
-    country: "Brasil",
-    location: "Parque Nacional do Caparaó (MG/ES)",
-    difficulty: "Difícil",
-    length_km: 12,
-    duration: "6-8 horas",
-    rating: 4.8,
-    coordinates: { lat: -20.4361, lon: -41.7901 },
-    tags: ["montanha", "aventura", "natureza"],
-    image: "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee",
-    description:
-      "Uma das trilhas mais altas do Brasil, com 2.892 metros de altitude e vistas panorâmicas incríveis."
-  },
-  {
-    id: 2,
-    name: "Pedra do Telégrafo",
-    country: "Brasil",
-    location: "Barra de Guaratiba, Rio de Janeiro (RJ)",
-    difficulty: "Moderada",
-    length_km: 3.5,
-    duration: "1h30",
-    rating: 4.7,
-    coordinates: { lat: -23.0717, lon: -43.5725 },
-    tags: ["praia", "mirante", "aventura"],
-    image: "https://images.unsplash.com/photo-1506744038136-46273834b3fb",
-    description:
-      "Famosa pelas fotos vertiginosas e vista das praias cariocas, é uma das trilhas mais instagramáveis do Rio."
   },
   {
     id: 3,
@@ -130,7 +100,7 @@ const trails = [
     rating: 4.9,
     coordinates: { lat: -22.9906, lon: -43.2776 },
     tags: ["mirante", "urbana", "natureza"],
-    image: "https://images.unsplash.com/photo-1505843430980-2fa3f1b3f83b",
+    image: "https://img.oastatic.com/img2/55098610/max/variant.jpg",
     description:
       "Trilha curta e acessível, com uma das melhores vistas do Rio de Janeiro — perfeito pra iniciantes."
   },
@@ -145,7 +115,7 @@ const trails = [
     rating: 4.8,
     coordinates: { lat: -27.789, lon: -48.523 },
     tags: ["praia", "natureza", "isolada"],
-    image: "https://images.unsplash.com/photo-1526778548025-fa2f459cd5c1",
+    image: "https://images.alltrails.com/eyJidWNrZXQiOiJhc3NldHMuYWxsdHJhaWxzLmNvbSIsImtleSI6InVwbG9hZHMvcGhvdG8vaW1hZ2UvNzk1NTQzNTgvOGMxMjM0MTM3YjQxNzUzZDgyNzVlNWE3NGVhZGI0NTcuanBnIiwiZWRpdHMiOnsidG9Gb3JtYXQiOiJ3ZWJwIiwicmVzaXplIjp7IndpZHRoIjo1MDAsImhlaWdodCI6NTAwLCJmaXQiOiJpbnNpZGUifSwicm90YXRlIjpudWxsLCJqcGVnIjp7InRyZWxsaXNRdWFudGlzYXRpb24iOnRydWUsIm92ZXJzaG9vdERlcmluZ2luZyI6dHJ1ZSwib3B0aW1pc2VTY2FucyI6dHJ1ZSwicXVhbnRpc2F0aW9uVGFibGUiOjN9fX0=",
     description:
       "Caminho cercado por mata atlântica que leva a uma das praias mais lindas e selvagens de Florianópolis."
   },
@@ -160,7 +130,7 @@ const trails = [
     rating: 4.6,
     coordinates: { lat: -19.286, lon: -43.537 },
     tags: ["cachoeira", "natureza", "ecoturismo"],
-    image: "https://images.unsplash.com/photo-1558981403-c5f9891b6d83",
+    image: "https://sentidosdoviajar.com/wp-content/uploads/2019/06/cachoeira-da-farofa-parque-nacional-serra-cipo.jpg",
     description:
       "Trilha com rios cristalinos e cachoeiras, ideal pra quem quer curtir natureza e banho de água gelada."
   },
@@ -175,27 +145,13 @@ const trails = [
     rating: 5.0,
     coordinates: { lat: -12.574, lon: -41.491 },
     tags: ["cachoeira", "montanha", "aventura"],
-    image: "https://images.unsplash.com/photo-1549887534-4a43aaee17c9",
+    image: "https://www.vamostrilhar.com.br/wp-content/uploads/2024/08/Cachoeira-da-Fumacinha-Chapada-Diamantina-BA-Vamos-Trilhar-jpg.webp",
     description:
       "Uma das trilhas mais icônicas do Brasil, leva à segunda cachoeira mais alta do país com 340 metros."
   },
 
   // 🌍 MUNDO
-  {
-    id: 7,
-    name: "Inca Trail",
-    country: "Peru",
-    location: "Cusco até Machu Picchu",
-    difficulty: "Difícil",
-    length_km: 42,
-    duration: "4 dias",
-    rating: 4.9,
-    coordinates: { lat: -13.1631, lon: -72.5450 },
-    tags: ["histórico", "montanha", "aventura"],
-    image: "https://images.unsplash.com/photo-1568795396300-00c9532a4b06",
-    description:
-      "Trilha milenar usada pelos incas, cercada por ruínas e paisagens impressionantes até Machu Picchu."
-  },
+
   {
     id: 8,
     name: "Torres del Paine Circuit",
@@ -212,36 +168,6 @@ const trails = [
       "Uma das trilhas mais espetaculares da Patagônia, com picos nevados, lagos e campos de gelo."
   },
   {
-    id: 9,
-    name: "Caminho de Santiago",
-    country: "Espanha",
-    location: "De Saint-Jean-Pied-de-Port (França) até Santiago de Compostela",
-    difficulty: "Moderada",
-    length_km: 800,
-    duration: "25-30 dias",
-    rating: 4.8,
-    coordinates: { lat: 42.8782, lon: -8.5448 },
-    tags: ["espiritual", "histórico", "cultural"],
-    image: "https://images.unsplash.com/photo-1579054263999-fb3e9a2452f4",
-    description:
-      "Percurso histórico e espiritual feito por peregrinos há séculos, atravessando belas vilas e montanhas."
-  },
-  {
-    id: 10,
-    name: "Pacific Crest Trail",
-    country: "Estados Unidos",
-    location: "Do México ao Canadá (Costa Oeste)",
-    difficulty: "Extrema",
-    length_km: 4265,
-    duration: "4-6 meses",
-    rating: 5.0,
-    coordinates: { lat: 36.7783, lon: -119.4179 },
-    tags: ["longa distância", "aventura", "deserto", "montanha"],
-    image: "https://images.unsplash.com/photo-1549893079-842e6aa9f4c2",
-    description:
-      "Trilha icônica que cruza os EUA de sul a norte, passando por desertos, florestas e montanhas nevadas."
-  },
-  {
     id: 11,
     name: "Annapurna Circuit",
     country: "Nepal",
@@ -252,7 +178,7 @@ const trails = [
     rating: 4.9,
     coordinates: { lat: 28.5983, lon: 83.9311 },
     tags: ["montanha", "neve", "aventura"],
-    image: "https://images.unsplash.com/photo-1549887534-4a43aaee17c9",
+    image: "https://cdn.kimkim.com/files/a/content_articles/featured_photos/797dcc2c9eb365e86629cda28166e4352b7f96b5/big-cf3debd2f7e032044450f491f4865ee6.jpg",
     description:
       "Uma das trilhas mais famosas do Himalaia, com vistas espetaculares de montanhas acima de 8 mil metros."
   },
@@ -282,7 +208,7 @@ const trails = [
     rating: 4.9,
     coordinates: { lat: -49.3315, lon: -72.9847 },
     tags: ["montanha", "glacial", "paisagem"],
-    image: "https://images.unsplash.com/photo-1549887534-4a36d110c49b",
+    image: "https://ciatrip-uploads.s3.us-east-2.amazonaws.com/wp-content/uploads/2023/12/43.jpg",
     description: "Trilha icônica até a base do Monte Fitz Roy, com lagos azul-turquesa e vista inesquecível."
   },
   {
@@ -296,7 +222,7 @@ const trails = [
     rating: 5.0,
     coordinates: { lat: -51.253, lon: -72.353 },
     tags: ["aventura", "multi-dia", "montanha"],
-    image: "https://images.unsplash.com/photo-1551986782-d0169a1a1110",
+    image: "https://www.muchbetteradventures.com/magazine/content/images/2024/01/Torres-del-Paine-Chile-Patagonia-8.jpg",
     description: "Uma das trilhas mais famosas do mundo, com montanhas, lagos e geleiras imponentes."
   },
   {
@@ -310,22 +236,8 @@ const trails = [
     rating: 4.9,
     coordinates: { lat: -13.2172, lon: -72.5447 },
     tags: ["história", "aventura", "altitude"],
-    image: "https://images.unsplash.com/photo-1587496679743-8b10e16b9b6f",
+    image: "https://www.tierrasvivas.com/img/salkantay-trek-expedition-022-01.jpg",
     description: "Alternativa à trilha Inca, passando por paisagens nevadas e vilas andinas."
-  },
-  {
-    id: 21,
-    name: "Inca Trail",
-    country: "Peru",
-    location: "De Ollantaytambo a Machu Picchu",
-    difficulty: "Moderada",
-    length_km: 43,
-    duration: "4 dias",
-    rating: 5.0,
-    coordinates: { lat: -13.1631, lon: -72.545 },
-    tags: ["história", "arqueologia", "aventura"],
-    image: "https://images.unsplash.com/photo-1505673542671-32d3ccf0b16d",
-    description: "Trilha clássica inca até Machu Picchu, passando por ruínas antigas e florestas tropicais."
   },
   {
     id: 22,
@@ -338,7 +250,7 @@ const trails = [
     rating: 4.8,
     coordinates: { lat: -41.1046, lon: -71.439 },
     tags: ["mirante", "lago", "curta"],
-    image: "https://images.unsplash.com/photo-1603729891510-2366efb8dcd3",
+    image: "https://passportpilgrimage.com/wp-content/uploads/2024/04/Cerro-Campanario-Must-do-Bariloche-scaled.jpg",
     description: "Curta subida com vista panorâmica dos lagos e montanhas da Patagônia argentina."
   },
   {
@@ -352,7 +264,7 @@ const trails = [
     rating: 4.7,
     coordinates: { lat: 4.637, lon: -75.5119 },
     tags: ["natureza", "palmeiras", "fotografia"],
-    image: "https://images.unsplash.com/photo-1528234601238-cc0d9c5e0d9a",
+    image: "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-674x446/0b/f3/e4/e4.jpg",
     description: "Lar das palmeiras mais altas do mundo, com paisagens verdes e trilhas encantadoras."
   },
   {
@@ -366,7 +278,7 @@ const trails = [
     rating: 4.9,
     coordinates: { lat: -0.8689, lon: -78.9303 },
     tags: ["vulcão", "aventura", "multi-dia"],
-    image: "https://images.unsplash.com/photo-1581804928342-4e3405e39c91",
+    image: "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-674x446/0b/a0/0f/5e.jpg",
     description: "Trilha em torno da cratera do vulcão Quilotoa, com vilas locais e vistas espetaculares."
   },
   {
@@ -380,7 +292,7 @@ const trails = [
     rating: 4.9,
     coordinates: { lat: -50.4944, lon: -73.0489 },
     tags: ["glacial", "aventura", "frio"],
-    image: "https://images.unsplash.com/photo-1579446565213-79ec0a6fd3e0",
+    image: "https://patagonia.com.br/media/catalog/product/cache/1/image/800x800/17f82f742ffe127f42dca9de82fb58b1/m/i/minitrekking-glaciar-perito-moreno_1.jpeg",
     description: "Caminhada sobre o gelo em uma das geleiras mais impressionantes da Patagônia."
   },
   {
@@ -397,20 +309,7 @@ const trails = [
     image: "https://images.unsplash.com/photo-1584645740942-1a3db1a8ce0b",
     description: "Região de montanhas e lagos andinos, com trilhas entre 3.000 e 4.000 metros de altitude."
   },
-  {
-    id: 27,
-    name: "Huayna Picchu",
-    country: "Peru",
-    location: "Machu Picchu",
-    difficulty: "Difícil",
-    length_km: 4,
-    duration: "2h30",
-    rating: 4.9,
-    coordinates: { lat: -13.159, lon: -72.546 },
-    tags: ["arqueologia", "altitude", "vista"],
-    image: "https://images.unsplash.com/photo-1574375927938-3a3e6a27b9c0",
-    description: "Subida íngreme com vista panorâmica de Machu Picchu, muito procurada por aventureiros."
-  },
+
   {
     id: 28,
     name: "Los Nevados National Park",
@@ -422,7 +321,7 @@ const trails = [
     rating: 4.8,
     coordinates: { lat: 4.814, lon: -75.363 },
     tags: ["montanha", "vulcão", "neve"],
-    image: "https://images.unsplash.com/photo-1610576665457-fc317b4a0d05",
+    image: "https://st2.depositphotos.com/44391406/44145/i/450/depositphotos_441456600-stock-photo-lagoon-located-los-nevados-national.jpg",
     description: "Trilha entre vulcões e lagos, com altitudes superiores a 5.000 metros."
   },
   {
@@ -436,7 +335,7 @@ const trails = [
     rating: 4.7,
     coordinates: { lat: -41.1753, lon: -71.4381 },
     tags: ["montanha", "escalada", "aventura"],
-    image: "https://images.unsplash.com/photo-1617484211151-c41f092d137f",
+    image: "https://www.tourandhotels.com/configurador/Parques/AtractivoChica_15112017085918.webp",
     description: "Famosa tanto para trilhas quanto para esqui, com vista para os lagos da região."
   },
   {
@@ -450,7 +349,7 @@ const trails = [
     rating: 4.9,
     coordinates: { lat: -39.4205, lon: -71.9328 },
     tags: ["vulcão", "aventura", "neve"],
-    image: "https://images.unsplash.com/photo-1617380082831-7e83f6e9dc9f",
+    image: "https://theindianface.com/cdn/shop/articles/Volcan-Villarrica-0.jpg?v=1616068696",
     description: "Subida ativa ao vulcão Villarrica, com paisagens de neve e lagos ao redor."
   },
   {
@@ -464,7 +363,7 @@ const trails = [
     rating: 4.9,
     coordinates: { lat: -13.407, lon: -72.629 },
     tags: ["lago", "montanha", "altitude"],
-    image: "https://images.unsplash.com/photo-1587993304372-7d9d8e39b9fb",
+    image: "https://www.cusconative.com/wp-content/uploads/2020/02/humantay-header-c.jpg",
     description: "Trilha curta, porém desafiadora, até uma das lagoas mais fotogênicas dos Andes peruanos."
   },
   {
@@ -478,7 +377,7 @@ const trails = [
     rating: 4.8,
     coordinates: { lat: -0.6833, lon: -78.4369 },
     tags: ["vulcão", "altitude", "neve"],
-    image: "https://images.unsplash.com/photo-1610391620413-998d7b8a5c79",
+    image: "https://cdn.getyourguide.com/image/format=auto,fit=crop,gravity=auto,quality=60,width=450,height=450,dpr=2/tour_img/373cb78ffb4bcc548bb42ed8012ab044bb2a8f51ae385c9d4e7b534cb1c60bbe.jpg",
     description: "Escalada ao segundo vulcão ativo mais alto do mundo, com 5.897 metros de altitude."
   },
   {
@@ -492,22 +391,8 @@ const trails = [
     rating: 4.9,
     coordinates: { lat: -9.0044, lon: -77.6053 },
     tags: ["glacial", "montanha", "paisagem"],
-    image: "https://images.unsplash.com/photo-1620410954977-d5fbe2b55ecb",
+    image: "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/10/98/0c/56/photo0jpg.jpg?w=1200&h=-1&s=1",
     description: "Uma das trilhas mais belas dos Andes, com lago azul-turquesa a mais de 4.600m."
-  },
-  {
-    id: 34,
-    name: "Paso del Hombre Muerto",
-    country: "Chile",
-    location: "Atacama",
-    difficulty: "Difícil",
-    length_km: 18,
-    duration: "7 horas",
-    rating: 4.7,
-    coordinates: { lat: -24.274, lon: -68.935 },
-    tags: ["deserto", "aventura", "altitude"],
-    image: "https://images.unsplash.com/photo-1552452255-4a86c345d1b1",
-    description: "Trilha remota pelo Deserto do Atacama com vistas lunares e formações rochosas únicas."
   },
   {
     id: 35,
@@ -520,7 +405,7 @@ const trails = [
     rating: 4.8,
     coordinates: { lat: -49.3389, lon: -72.886 },
     tags: ["montanha", "fotografia", "curta"],
-    image: "https://images.unsplash.com/photo-1523528283115-0a8a60b5c8be",
+    image: "https://walk-trek.tur.ar/wp-content/uploads/2019/08/Laguna-Capri-1.jpg",
     description: "Trilha curta até um dos melhores mirantes do Fitz Roy, ideal para quem tem pouco tempo."
   },
   {
@@ -534,25 +419,11 @@ const trails = [
     rating: 4.9,
     coordinates: { lat: 45.8326, lon: 6.8652 },
     tags: ["montanha", "longa distância", "glaciares"],
-    image: "https://images.unsplash.com/photo-1507525428034-b723cf961d3e",
+    image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhsYCxO1FXvr-HgZbocCapHtr5zQojamlAbfovuQkORc_W1nOv83pCc6LWToaqT8bBKBZXaiNq8Kx6hnR8WMEC-YkeTjXN-_t4bgSqBgkewW5NlKjlQVFnSF2L82dK313Onjfop43ZQzRgr_wY6caSZGaTEcVzO5Fgxng9gs48rjds_1dzgs6dDfwAYOA/s1156/tour_mont_blanc%20(9).jpg",
     description:
       "Uma das trilhas alpinas mais icônicas, cruzando três países e passando por vilas e paisagens espetaculares."
   },
-  {
-    id: 49,
-    name: "Camino de Santiago",
-    country: "Espanha",
-    location: "Galícia",
-    difficulty: "Moderada",
-    length_km: 780,
-    duration: "30-35 dias",
-    rating: 4.8,
-    coordinates: { lat: 42.8804, lon: -8.5463 },
-    tags: ["peregrinação", "história", "longa distância"],
-    image: "https://images.unsplash.com/photo-1564326269929-27a5b9c97e5e",
-    description:
-      "Rota de peregrinação milenar que leva à Catedral de Santiago de Compostela, com diversas variantes e rica herança cultural."
-  },
+  
   {
     id: 50,
     name: "Cinque Terre Trail",
@@ -564,7 +435,7 @@ const trails = [
     rating: 4.7,
     coordinates: { lat: 44.1467, lon: 9.6434 },
     tags: ["costeira", "vilas", "mar Mediterrâneo"],
-    image: "https://images.unsplash.com/photo-1534438327276-14e5300c3a48",
+    image: "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/13/40/69/d4/blick-von-corniglia-in.jpg?w=300&h=300&s=1",
     description:
       "Trilha costeira que conecta as cinco vilas coloridas de Cinque Terre, com vistas incríveis sobre o Mediterrâneo."
   },
@@ -579,10 +450,21 @@ const trails = [
     rating: 4.9,
     coordinates: { lat: 63.9833, lon: -19.0667 },
     tags: ["vulcão", "geotermal", "glaciares"],
-    image: "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee",
+    image: "https://www.alltrails.com/_next/image?url=https%3A%2F%2Fimages.alltrails.com%2FeyJidWNrZXQiOiJhc3NldHMuYWxsdHJhaWxzLmNvbSIsImtleSI6InVwbG9hZHMvcGhvdG8vaW1hZ2UvNjQ1NDM3MzAvYzE4NmY4NDgxMWVjNmM2ODFlNDRlZWMwYmUxZGJmMzUuanBnIiwiZWRpdHMiOnsidG9Gb3JtYXQiOiJ3ZWJwIiwicmVzaXplIjp7IndpZHRoIjoxMDgwLCJoZWlnaHQiOjcwMCwiZml0IjoiY292ZXIifSwicm90YXRlIjpudWxsLCJqcGVnIjp7InRyZWxsaXNRdWFudGlzYXRpb24iOnRydWUsIm92ZXJzaG9vdERlcmluZ2luZyI6dHJ1ZSwib3B0aW1pc2VTY2FucyI6dHJ1ZSwicXVhbnRpc2F0aW9uVGFibGUiOjN9fX0%3D&w=3840&q=90",
     description:
       "Trilha que cruza campos de lava, montanhas coloridas e rios glaciais — um dos percursos mais únicos do planeta."
   },
+  
+  
+  
+  
+  
+  //parei aqui
+
+
+
+
+
   {
     id: 52,
     name: "West Highland Way",

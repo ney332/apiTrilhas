@@ -476,7 +476,7 @@ const trails = [
     rating: 4.8,
     coordinates: { lat: 56.8198, lon: -4.4066 },
     tags: ["lagos", "história", "montanha"],
-    image: "https://images.unsplash.com/photo-1552074280-1c1c9d71e3b6",
+    image: "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/13/7c/47/58/img-20180624-142956-390.jpg?w=900&h=-1&s=1",
     description:
       "A trilha mais famosa da Escócia, passando por lagos, vales e montanhas das Terras Altas."
   },
@@ -491,7 +491,7 @@ const trails = [
     rating: 4.9,
     coordinates: { lat: 42.0396, lon: 9.0129 },
     tags: ["montanha", "longa distância", "ilha"],
-    image: "https://images.unsplash.com/photo-1559589689-577aabd1b82b",
+    image: "https://www.corsica-aventure.com/sites/default/files/2024-11/gr20-confort-pano.jpg",
     description:
       "Considerada uma das trilhas mais desafiadoras da Europa, atravessando toda a ilha da Córsega de norte a sul."
   },
@@ -506,7 +506,7 @@ const trails = [
     rating: 4.8,
     coordinates: { lat: 46.4333, lon: 11.8500 },
     tags: ["montanha", "alpes", "refúgios"],
-    image: "https://images.unsplash.com/photo-1501785888041-af3ef285b470",
+    image: "https://images.squarespace-cdn.com/content/v1/5c7be58cb7c92c5aeea73009/1699330162635-U7TB44L8J5E1187JMHIE/Lago+di+Braies+Trail+Head+%281%29.jpg",
     description:
       "Uma rota clássica pelos picos e refúgios das Dolomitas, com paisagens dramáticas e culinária alpina."
   },
@@ -521,7 +521,7 @@ const trails = [
     rating: 4.7,
     coordinates: { lat: 37.6247, lon: -8.7876 },
     tags: ["costeira", "oceano", "vilas"],
-    image: "https://images.unsplash.com/photo-1598532210845-8f2a1b98ebd2",
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyB-jDhIei8b2J_EOlrOoHpIMFKyXnb9GY9Q&s",
     description:
       "Trilha costeira que percorre falésias, praias e vilas de pescadores na deslumbrante costa sudoeste de Portugal."
   },
@@ -536,7 +536,7 @@ const trails = [
     rating: 4.9,
     coordinates: { lat: 47.2682, lon: 11.3933 },
     tags: ["alpes", "longa distância", "refúgios"],
-    image: "https://images.unsplash.com/photo-1560769629-975ec94e6a86",
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQax69TMnnFqPs13hjUHzZdtn_mk7iU_LoVg&s",
     description:
       "Extensa trilha alpina com seções deslumbrantes através do Tirol, passando por lagos e picos nevados."
   },
@@ -551,7 +551,7 @@ const trails = [
     rating: 4.8,
     coordinates: { lat: 67.9, lon: 19.7 },
     tags: ["norte", "neve", "aventura"],
-    image: "https://images.unsplash.com/photo-1529651737248-dad5e1d4dd50",
+    image: "https://images.unsplash.com/photo-1529651737248-https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWYrGMlNp2fB0D0H1neByiG_gDOM2EV_SBLw&s",
     description:
       "Uma das trilhas mais selvagens da Europa, atravessando paisagens árticas e parques nacionais da Lapônia sueca."
   },{
@@ -565,7 +565,7 @@ const trails = [
   rating: 4.8,
   coordinates: { lat: 47.4, lon: 10.3 },
   tags: ["alpes", "longa distância", "aventura"],
-  image: "https://images.unsplash.com/photo-1508261303786-1febf1a0f3d3",
+  image: "https://images.unsplash.com/photo-1508261303786-https://img.eurohike.at/w_420,h_420,q_80,v_2d7875,hash_030a87/ddcijcnkv/image/upload/v1734598479/eurohike/gestaltung/site-header/wanderwege/eurohike-wanderreisen-alpenueberquerung-e5.jpg",
   description:
     "Cruza os Alpes da Alemanha até a Itália, passando por vilas alpinas, vales e glaciares."
 },
@@ -580,7 +580,7 @@ const trails = [
   rating: 4.7,
   coordinates: { lat: 35.2711, lon: 23.9633 },
   tags: ["desfiladeiro", "ilha", "parque nacional"],
-  image: "https://images.unsplash.com/photo-1585079543628-4a52b3eb3e57",
+  image: "https://cdn.kimkim.com/files/a/content_articles/featured_photos/ac32f5aea22235c22f156a98f0abfbae8ee4e3b4/big-5ce3d65d57af86cefa874306d0ac0605.jpg",
   description:
     "Trilha espetacular que atravessa o desfiladeiro de Samaria, o mais famoso da Grécia."
 },
@@ -595,7 +595,7 @@ const trails = [
   rating: 4.6,
   coordinates: { lat: 55.2408, lon: -6.5116 },
   tags: ["costeira", "falésias", "oceano"],
-  image: "https://images.unsplash.com/photo-1579982888874-9dcb83c7da6d",
+  image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3AFlyMBWYqVDIm6HtZeqIfPzWiuTFeou7nw&s",
   description:
     "Percurso costeiro com falésias dramáticas, pontes suspensas e a icônica Calçada dos Gigantes."
 },
@@ -610,7 +610,7 @@ const trails = [
   rating: 4.9,
   coordinates: { lat: 60.124, lon: 6.739 },
   tags: ["montanha", "mirante", "aventura"],
-  image: "https://images.unsplash.com/photo-1504439468489-c8920d796a29",
+  image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpp3_0kRhkDbirhmCAxWUQR5TTt3nm9zCk9w&s",
   description:
     "Uma das trilhas mais icônicas da Noruega, com a rocha suspensa sobre o fiorde como recompensa final."
 },
@@ -625,7 +625,7 @@ const trails = [
   rating: 4.8,
   coordinates: { lat: 58.9867, lon: 6.1903 },
   tags: ["fiorde", "mirante", "curta"],
-  image: "https://images.unsplash.com/photo-1526745947702-7c5dbd0984ab",
+  image: "https://static.wixstatic.com/media/611259_2dc9cb054004487a90b0634029096bf4~mv2.jpg/v1/fill/w_999,h_667,al_c,q_85,enc_avif,quality_auto/611259_2dc9cb054004487a90b0634029096bf4~mv2.jpg",
   description:
     "Um dos pontos mais fotografados da Escandinávia, com vista impressionante sobre o fiorde de Lyse."
 },
@@ -640,7 +640,7 @@ const trails = [
   rating: 4.8,
   coordinates: { lat: 44.880, lon: 15.616 },
   tags: ["lagos", "natureza", "cachoeiras"],
-  image: "https://images.unsplash.com/photo-1579446565308-427218a2dfe2",
+  image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqbfAQAfFLdZQtuSe8hBPe8Aq732zqscKCcQ&s",
   description:
     "Trilhas em passarelas sobre lagos turquesa e cachoeiras deslumbrantes no parque mais famoso da Croácia."
 },
@@ -655,7 +655,7 @@ const trails = [
   rating: 4.7,
   coordinates: { lat: 42.133, lon: 23.35 },
   tags: ["história", "montanha", "mosteiro"],
-  image: "https://images.unsplash.com/photo-1580643134055-bc885a61c6cb",
+  image: "https://media.tacdn.com/media/attractions-splice-spp-674x446/06/6b/6f/be.jpg",
   description:
     "Caminho até o Mosteiro de Rila, patrimônio mundial e símbolo espiritual da Bulgária."
 },
@@ -670,10 +670,17 @@ const trails = [
   rating: 4.9,
   coordinates: { lat: 45.9763, lon: 7.6586 },
   tags: ["glaciares", "montanha", "alpes"],
-  image: "https://images.unsplash.com/photo-1529626455594-4ff0802cfb7e",
+  image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQO48zUIaIsaKlWTztqSyxEPt-ROtEYp_Vtbg&s",
   description:
     "Caminho panorâmico ao pé do Matterhorn, com vistas glaciais impressionantes."
 },
+//parei aqui
+
+
+
+
+
+
 {
   id: 66,
   name: "Cinque Laghi Trail",

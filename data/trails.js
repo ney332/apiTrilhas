@@ -736,21 +736,6 @@ const trails = [
     "Percurso completo ao redor do fiorde Lyse, incluindo Trolltunga e Preikestolen."
 },
 {
-  id: 71,
-  name: "Alta Via 2",
-  country: "Itália",
-  location: "Dolomitas",
-  difficulty: "Difícil",
-  length_km: 160,
-  duration: "12 dias",
-  rating: 4.9,
-  coordinates: { lat: 46.4, lon: 11.9 },
-  tags: ["montanha", "refúgios", "aventura"],
-  image: "https://images.unsplash.com/photo-1535378917041-10a22c95931a",
-  description:
-    "Trilha de alta montanha que cruza os picos mais selvagens das Dolomitas, com refúgios e paisagens incríveis."
-},
-{
   id: 72,
   name: "Eiger Trail",
   country: "Suíça",
@@ -761,7 +746,7 @@ const trails = [
   rating: 4.8,
   coordinates: { lat: 46.577, lon: 8.005 },
   tags: ["montanha", "alpes", "mirante"],
-  image: "https://images.unsplash.com/photo-1493244040629-496f6d136cc3",
+  image: "https://swissfamilyfun.com/wp-content/uploads/2021/07/eiger-trail-start.jpg",
   description:
     "Trilha curta e cênica sob a face norte do Eiger, uma das montanhas mais icônicas dos Alpes."
 },
@@ -776,7 +761,7 @@ const trails = [
   rating: 4.7,
   coordinates: { lat: 47.77, lon: 13.45 },
   tags: ["montanha", "lago", "mirante"],
-  image: "https://images.unsplash.com/photo-1470770841072-f978cf4d019e",
+  image: "https://media.wildrovertravel.com/wp-content/uploads/2019/04/19175316/Salzkammergut-S-Trail-section-2-schafberg-mountain-and-mondsee.jpg",
   description:
     "Caminhada até o cume do Schafberg, com vistas sobre os lagos austríacos e o Hallstattsee."
 },
@@ -791,24 +776,9 @@ const trails = [
   rating: 4.8,
   coordinates: { lat: 45.6, lon: 24.7 },
   tags: ["montanha", "castelos", "aventura"],
-  image: "https://images.unsplash.com/photo-1606312611528-0cf1e6b930ec",
+  image: "https://cdn.backpacker.com/wp-content/uploads/2019/10/1119feat_transylvania_mjenkinsdsc_0492.jpg?width=730",
   description:
     "Trilha nos Cárpatos, com vistas para o Castelo de Drácula e o pico mais alto da Romênia."
-},
-{
-  id: 75,
-  name: "El Caminito del Rey",
-  country: "Espanha",
-  location: "Málaga",
-  difficulty: "Fácil",
-  length_km: 7.7,
-  duration: "2-3 horas",
-  rating: 4.7,
-  coordinates: { lat: 36.920, lon: -4.773 },
-  tags: ["aventura", "falésia", "ponte suspensa"],
-  image: "https://images.unsplash.com/photo-1606312611528-0cf1e6b930ec",
-  description:
-    "Antiga trilha de operários reformada, com passarelas suspensas entre montanhas verticais."
 },
 {
   id: 76,
@@ -821,39 +791,9 @@ const trails = [
   rating: 4.8,
   coordinates: { lat: 52.07, lon: -9.69 },
   tags: ["costeira", "vilas", "história"],
-  image: "https://images.unsplash.com/photo-1563715838504-3f3e144b9c26",
+  image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSr30Ikqhi0YwI0F9UT8B_EuX6PsKKOmPtTCQ&s",
   description:
     "Trilha circular pela Península de Iveragh, passando por montanhas, lagos e o Atlântico."
-},
-{
-  id: 77,
-  name: "Caminho dos Pescadores",
-  country: "Portugal",
-  location: "Alentejo e Vicentina",
-  difficulty: "Moderada",
-  length_km: 226,
-  duration: "10-12 dias",
-  rating: 4.8,
-  coordinates: { lat: 37.6, lon: -8.8 },
-  tags: ["costeira", "praia", "vilas"],
-  image: "https://images.unsplash.com/photo-1507525428034-b723cf961d3e",
-  description:
-    "Trilha ao longo das falésias e praias selvagens da costa sudoeste portuguesa."
-},
-{
-  id: 78,
-  name: "Black Forest Trail",
-  country: "Alemanha",
-  location: "Floresta Negra",
-  difficulty: "Moderada",
-  length_km: 285,
-  duration: "12-14 dias",
-  rating: 4.7,
-  coordinates: { lat: 48.05, lon: 8.22 },
-  tags: ["floresta", "vilas", "montanha"],
-  image: "https://images.unsplash.com/photo-1591605108960-0b3cbe0e64c1",
-  description:
-    "Trilha pela lendária Floresta Negra, com castelos, lagos e pequenas aldeias alemãs."
 },
 {
   id: 79,
@@ -866,7 +806,7 @@ const trails = [
   rating: 4.9,
   coordinates: { lat: 43.9, lon: 17.8 },
   tags: ["longa distância", "aventura", "montanha"],
-  image: "https://images.unsplash.com/photo-1606312611528-0cf1e6b930ec",
+  image: "https://www.camping-simuni.hr/wp-content/uploads/2024/07/np-plitvice-14.jpg",
   description:
     "Percurso épico pelos Bálcãs, cruzando montanhas, vales e lagos cristalinos."
 },
@@ -881,39 +821,9 @@ const trails = [
   rating: 4.8,
   coordinates: { lat: 39.97, lon: 4.08 },
   tags: ["ilha", "costeira", "praias"],
-  image: "https://images.unsplash.com/photo-1542038784456-1ea8e935640e",
+  image: "https://www.natour.travel/wp-content/uploads/2024/06/Cami-de-Cavalls-08.webp",
   description:
     "Antiga rota de defesa que circunda Menorca, passando por praias paradisíacas e falésias."
-},
-{
-  id: 81,
-  name: "Lycian Way",
-  country: "Turquia",
-  location: "Costa da Lícia",
-  difficulty: "Moderada",
-  length_km: 540,
-  duration: "25-30 dias",
-  rating: 4.9,
-  coordinates: { lat: 36.61, lon: 29.12 },
-  tags: ["costeira", "história", "vilas"],
-  image: "https://images.unsplash.com/photo-1515886657613-9f3515b0c78f",
-  description:
-    "Trilha costeira com ruínas antigas, praias e falésias no sul da Turquia."
-},
-{
-  id: 82,
-  name: "GR221 Dry Stone Route",
-  country: "Espanha",
-  location: "Maiorca",
-  difficulty: "Moderada",
-  length_km: 135,
-  duration: "8 dias",
-  rating: 4.8,
-  coordinates: { lat: 39.71, lon: 2.91 },
-  tags: ["montanha", "ilha", "vilas"],
-  image: "https://images.unsplash.com/photo-1507525428034-b723cf961d3e",
-  description:
-    "Rota histórica pelos vilarejos de pedra e trilhas antigas da Serra de Tramuntana."
 },
 {
     id: 83,
@@ -926,7 +836,7 @@ const trails = [
     rating: 4.3,
     coordinates: { lat: -5.7945, lon: -35.2110 },
     tags: ["praia", "urbana", "natureza"],
-    image: "https://example.com/morro-do-careca.jpg",
+    image: "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/17/0f/c6/d5/img-20190403-wa0095-largejpg.jpg?w=1200&h=1200&s=1",
     description: "Trilha curta e agradável que leva até o Morro do Careca, famosa duna de Natal, com vista para a praia."
   },
   {
@@ -940,7 +850,7 @@ const trails = [
     rating: 4.5,
     coordinates: { lat: -20.3810, lon: -43.5032 },
     tags: ["montanha", "histórica", "natureza"],
-    image: "https://example.com/pico-itacolomi.jpg",
+    image: "https://turismoouropreto.com/paineltur/wp-content/uploads/2022/04/itacolomi-1.jpg",
     description: "Trilha que leva ao cume do Pico do Itacolomi, com vistas panorâmicas de Ouro Preto e rica vegetação."
   },
   {
@@ -954,7 +864,7 @@ const trails = [
     rating: 4.8,
     coordinates: { lat: -22.0289, lon: -45.4820 },
     tags: ["montanha", "alta altitude", "aventura"],
-    image: "https://example.com/pedra-da-mina.jpg",
+    image: "https://vaviaje.com.br/wp-content/uploads/2024/01/IMG_6816.jpeg",
     description: "Uma das trilhas mais desafiadoras de Minas Gerais, levando ao terceiro ponto mais alto do Brasil."
   },
   {
@@ -968,7 +878,7 @@ const trails = [
     rating: 4.7,
     coordinates: { lat: -10.2915, lon: -46.1520 },
     tags: ["cerrado", "cachoeira", "aventura"],
-    image: "https://example.com/jalapao.jpg",
+    image: "https://socialpedal.com.br/wp-content/uploads/2019/11/IMG_8082-02-600x800.jpg",
     description: "Trilha que passa por rios, dunas e cachoeiras do Parque Estadual do Jalapão."
   },
   {
@@ -982,7 +892,7 @@ const trails = [
     rating: 4.2,
     coordinates: { lat: -22.9632, lon: -43.2125 },
     tags: ["urbana", "parque", "vista panorâmica"],
-    image: "https://example.com/parque-catacumba.jpg",
+    image: "https://riotur.rio/wp-content/uploads/2015/08/7163714516_0462e3962d_4k-scaled.jpg",
     description: "Trilha curta dentro do parque, com mirantes e esculturas, ideal para passeio familiar."
   },
   {
@@ -996,7 +906,7 @@ const trails = [
     rating: 4.9,
     coordinates: { lat: -22.4578, lon: -43.0453 },
     tags: ["travessia", "montanha", "desafio", "mata atlântica"],
-    image: "https://example.com/petro-teresopolis.jpg",
+    image: "https://turismodenatureza.com.br/wp-content/uploads/2023/11/Travessia-Petropolis-Teresopolis.jpg",
     description: "Considerada uma das travessias mais belas do Brasil, ligando as cidades de Petrópolis e Teresópolis, passando por picos icônicos como o Dedo de Deus."
   },
   {
@@ -1010,7 +920,7 @@ const trails = [
     rating: 4.9,
     coordinates: { lat: -12.9806, lon: -41.5244 },
     tags: ["trekking", "cânion", "cachoeira", "natureza"],
-    image: "https://example.com/vale-do-pati.jpg",
+    image: "https://vamocomigo.com/wp-content/uploads/2019/01/Vale-do-Pati.jpg",
     description: "Uma das mais famosas trilhas de longo curso, percorrendo um vale espetacular com rios, cachoeiras e pernoite nas casas de moradores locais."
   },
   {
@@ -1038,7 +948,7 @@ const trails = [
     rating: 4.6,
     coordinates: { lat: -29.0700, lon: -50.0400 },
     tags: ["cânion", "rio", "caminhada aquática", "natureza"],
-    image: "https://example.com/rio-do-boi.jpg",
+    image: "https://urbia-cms-assets.s3.amazonaws.com/prod/Rio_do_Boi_Creditos_Luciano_Barreto_3_8efebd4cda.jpg",
     description: "Trilha realizada pelo interior do Cânion Itaimbezinho, atravessando o rio diversas vezes, exigindo guia e bom preparo físico."
   },
   {
@@ -1052,7 +962,7 @@ const trails = [
     rating: 4.8,
     coordinates: { lat: -14.1200, lon: -47.7800 },
     tags: ["cachoeira", "cerrado", "piscinas naturais", "passeio"],
-    image: "https://example.com/saltos-veadeiros.jpg",
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXzyBLNQhHFUwwAFjj4H9rbIQ4HoT6238kYg&s",
     description: "Circuito que leva às duas principais cachoeiras do parque: o Salto de 120m e a Cachoeira do Salto de 80m com uma piscina natural para banho."
   }, {
     id: 93,
@@ -1065,7 +975,7 @@ const trails = [
     rating: 4.6,
     coordinates: { lat: -22.9867, lon: -43.1989 },
     tags: ["urbana", "escalada", "vista da cidade"],
-    image: "https://example.com/morro-cantagalo.jpg",
+    image: "https://s0.wklcdn.com/image_59/1773976/11719513/7213077Master.jpg",
     description:
       "Trilha urbana com subida íngreme que oferece uma vista incrível do Rio de Janeiro."
   },
@@ -1080,24 +990,9 @@ const trails = [
     rating: 4.8,
     coordinates: { lat: -29.3575, lon: -50.8208 },
     tags: ["cachoeira", "paisagem", "curta"],
-    image: "https://example.com/trilha-caracol.jpg",
+    image: "https://passagemcomprada.com.br/wp-content/uploads/2021/07/Cascata-do-Caracol-3-1024x768.jpg",
     description:
       "Trilha curta que leva à famosa Cachoeira do Caracol, perfeita para iniciantes e famílias."
-  },
-  {
-    id: 95,
-    name: "Trilha da Pedra Bonita",
-    country: "Brasil",
-    location: "Rio de Janeiro (RJ)",
-    difficulty: "Moderada",
-    length_km: 5,
-    duration: "2-3 horas",
-    rating: 4.7,
-    coordinates: { lat: -22.9845, lon: -43.2190 },
-    tags: ["montanha", "parapente", "vista panorâmica"],
-    image: "https://example.com/pedra-bonita.jpg",
-    description:
-      "Trilha com vista incrível do Rio de Janeiro, muito popular entre praticantes de voo livre."
   },
   {
     id: 96,
@@ -1110,25 +1005,11 @@ const trails = [
     rating: 4.9,
     coordinates: { lat: -22.9485, lon: -43.1550 },
     tags: ["urbana", "vista panorâmica", "turística"],
-    image: "https://example.com/morro-urca.jpg",
+    image: "https://static.wixstatic.com/media/29806e_82e3301ced154a418a42e27bdc387908~mv2.jpg/v1/fill/w_568,h_376,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/29806e_82e3301ced154a418a42e27bdc387908~mv2.jpg",
     description:
       "Trilha curta e turística, com vista para o Pão de Açúcar e a Baía de Guanabara."
   },
-  {
-    id: 97,
-    name: "Trilha do Pico do Itacolomi",
-    country: "Brasil",
-    location: "Ouro Preto (MG)",
-    difficulty: "Difícil",
-    length_km: 4,
-    duration: "3 horas",
-    rating: 4.8,
-    coordinates: { lat: -20.4370, lon: -43.5000 },
-    tags: ["montanha", "história", "geologia"],
-    image: "https://example.com/pico-itacolomi.jpg",
-    description:
-      "Trilha curta mas exigente, com vista do parque e formações rochosas impressionantes."
-  },
+ 
   {
     id: 98,
     name: "Trilha do Morro da Igreja",
@@ -1140,7 +1021,7 @@ const trails = [
     rating: 4.9,
     coordinates: { lat: -28.0010, lon: -49.6310 },
     tags: ["montanha", "neve", "vista panorâmica"],
-    image: "https://example.com/morro-igreja.jpg",
+    image: "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/18/1c/2f/58/morro-da-igreja.jpg?w=1200&h=-1&s=1",
     description:
       "Trilha exigente que leva ao ponto mais alto de Santa Catarina, com vistas espetaculares."
   },
@@ -1155,7 +1036,7 @@ const trails = [
     rating: 4.6,
     coordinates: { lat: -23.0110, lon: -43.3890 },
     tags: ["praia", "caminhada", "natureza"],
-    image: "https://example.com/prainha.jpg",
+    image: "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0e/13/25/4a/photo1jpg.jpg?w=1200&h=1200&s=1",
     description:
       "Trilha leve que leva à famosa Prainha, ótima para banho e surf."
   },
@@ -1170,7 +1051,7 @@ const trails = [
     rating: 4.8,
     coordinates: { lat: -14.0500, lon: -47.5000 },
     tags: ["cachoeira", "natureza", "passeio"],
-    image: "https://example.com/sete-quedas.jpg",
+    image: "https://www.seumochilao.com.br/wp-content/uploads/2016/01/canion1.jpg",
     description:
       "Trilha que passa por sete quedas d’água, perfeita para banho e contemplação da natureza."
   }, {
@@ -1184,7 +1065,7 @@ const trails = [
     rating: 4.9,
     coordinates: { lat: -25.4170, lon: -50.4700 },
     tags: ["montanha", "aventura", "desafio"],
-    image: "https://example.com/pico-parana.jpg",
+    image: "https://natureadventure.com.br/imageb/trilha-do-pico-parana-e-caratuva-nature-adventure-5.jpg",
     description: "Trilha desafiadora que leva ao ponto mais alto do Paraná, com vistas incríveis."
   },
   {
@@ -1198,7 +1079,7 @@ const trails = [
     rating: 4.6,
     coordinates: { lat: -23.8550, lon: -46.1280 },
     tags: ["praia", "mata atlântica", "vista panorâmica"],
-    image: "https://example.com/morro-canal.jpg",
+    image: "https://aventuracuritiba.com.br/wp-content/uploads/2019/03/inicio-morro-canal-min.jpg",
     description: "Caminhada curta em meio à mata atlântica com vista para o mar."
   },
   {
@@ -1212,7 +1093,7 @@ const trails = [
     rating: 4.7,
     coordinates: { lat: -20.3230, lon: -40.3000 },
     tags: ["montanha", "vista da cidade", "urbana"],
-    image: "https://example.com/morro-moreno.jpg",
+    image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiepe-iYzr9_TkmmgEVkQc-nV40PXb5-NafHmWphJFnf8rw2mx8_tQMadXvr38oUH9uV6QIwM50cMSG6dkt6Onauuc7jRKUukd-76-DPmMtOrU7YIJJ6KC7F-9AeJ2fPkUH5roimhUv-xxt/s1600/Morro+3.jpeg",
     description: "Trilha urbana com subida gradual que oferece vista da cidade e do litoral."
   },
   {
@@ -1226,9 +1107,16 @@ const trails = [
     rating: 4.8,
     coordinates: { lat: -29.0540, lon: -50.1160 },
     tags: ["cânion", "paisagem", "natureza"],
-    image: "https://example.com/itambezinho.jpg",
+    image: "https://www.mapadeviajante.com.br/wp-content/uploads/2021/03/Praia-Grande-SC-Capa-2.jpg",
     description: "Trilha no Parque Nacional de Aparados da Serra com vista para o Cânion Itambezinho."
   },
+  //parei aqui agora 
+
+
+
+
+
+  
   {
     id: 105,
     name: "Trilha do Morro da Igreja - Pedra Furada",

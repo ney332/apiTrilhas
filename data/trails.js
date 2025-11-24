@@ -731,7 +731,7 @@ const trails = [
   rating: 4.8,
   coordinates: { lat: 58.9, lon: 6.6 },
   tags: ["fiorde", "aventura", "longa distância"],
-  image: "https://images.unsplash.com/photo-1506929562872-bb421503ef21",
+  image: "https://kjerag.info/wp-content/uploads/2024/01/Lysefjorden.jpg",
   description:
     "Percurso completo ao redor do fiorde Lyse, incluindo Trolltunga e Preikestolen."
 },

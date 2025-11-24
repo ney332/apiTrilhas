@@ -476,7 +476,7 @@ const trails = [
     rating: 4.8,
     coordinates: { lat: 56.8198, lon: -4.4066 },
     tags: ["lagos", "história", "montanha"],
-    image: "https://images.unsplash.com/photo-1552074280-1c1c9d71e3b6",
+    image: "https://sawdays-production-assets.s3.eu-west-1.amazonaws.com/wp-content/uploads/2023/08/04090803/Walking-the-West-Highland-Way-10-e1751019511521.jpg",
     description:
       "A trilha mais famosa da Escócia, passando por lagos, vales e montanhas das Terras Altas."
   },
@@ -491,7 +491,7 @@ const trails = [
     rating: 4.9,
     coordinates: { lat: 42.0396, lon: 9.0129 },
     tags: ["montanha", "longa distância", "ilha"],
-    image: "https://images.unsplash.com/photo-1559589689-577aabd1b82b",
+    image: "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/17/28/b9/95/gr20.jpg?w=1200&h=1200&s=1",
     description:
       "Considerada uma das trilhas mais desafiadoras da Europa, atravessando toda a ilha da Córsega de norte a sul."
   },
@@ -506,7 +506,7 @@ const trails = [
     rating: 4.8,
     coordinates: { lat: 46.4333, lon: 11.8500 },
     tags: ["montanha", "alpes", "refúgios"],
-    image: "https://images.unsplash.com/photo-1501785888041-af3ef285b470",
+    image: "https://images.squarespace-cdn.com/content/v1/5c7be58cb7c92c5aeea73009/1699330162635-U7TB44L8J5E1187JMHIE/Lago+di+Braies+Trail+Head+%281%29.jpg",
     description:
       "Uma rota clássica pelos picos e refúgios das Dolomitas, com paisagens dramáticas e culinária alpina."
   },
@@ -521,7 +521,7 @@ const trails = [
     rating: 4.7,
     coordinates: { lat: 37.6247, lon: -8.7876 },
     tags: ["costeira", "oceano", "vilas"],
-    image: "https://images.unsplash.com/photo-1598532210845-8f2a1b98ebd2",
+    image: "https://cdn.visitportugal.com/sites/www.visitportugal.com/files/mediateca/RotaVicentina_2079_660x371_08.jpg",
     description:
       "Trilha costeira que percorre falésias, praias e vilas de pescadores na deslumbrante costa sudoeste de Portugal."
   },
@@ -536,7 +536,7 @@ const trails = [
     rating: 4.9,
     coordinates: { lat: 47.2682, lon: 11.3933 },
     tags: ["alpes", "longa distância", "refúgios"],
-    image: "https://images.unsplash.com/photo-1560769629-975ec94e6a86",
+    image: "https://www.moonhoneytravel.com/wp-content/uploads/2024/03/moonhoneytravel_Wurttemberger-Haus_Lechtal-1.jpg",
     description:
       "Extensa trilha alpina com seções deslumbrantes através do Tirol, passando por lagos e picos nevados."
   },
@@ -551,7 +551,7 @@ const trails = [
     rating: 4.8,
     coordinates: { lat: 67.9, lon: 19.7 },
     tags: ["norte", "neve", "aventura"],
-    image: "https://images.unsplash.com/photo-1529651737248-dad5e1d4dd50",
+    image: "https://www.swedishlapland.com/wp-content/uploads/resized/98/3169_HStenlund_1920x1080_1920x1080_2cdfcba546a60f0ac39ebb868e2fee91.jpg",
     description:
       "Uma das trilhas mais selvagens da Europa, atravessando paisagens árticas e parques nacionais da Lapônia sueca."
   },{
@@ -565,7 +565,7 @@ const trails = [
   rating: 4.8,
   coordinates: { lat: 47.4, lon: 10.3 },
   tags: ["alpes", "longa distância", "aventura"],
-  image: "https://images.unsplash.com/photo-1508261303786-1febf1a0f3d3",
+  image: "https://rezkit-tour-images.b-cdn.net/01h7ywwd7at70t98wdj69emng5/images/01HQNXAP3ZQZ9Y5DEZW5APKYCA.jpg?width=1600&height=1000&focus_crop=4032%2C2520%2C1831%2C1857",
   description:
     "Cruza os Alpes da Alemanha até a Itália, passando por vilas alpinas, vales e glaciares."
 },
@@ -580,7 +580,7 @@ const trails = [
   rating: 4.7,
   coordinates: { lat: 35.2711, lon: 23.9633 },
   tags: ["desfiladeiro", "ilha", "parque nacional"],
-  image: "https://images.unsplash.com/photo-1585079543628-4a52b3eb3e57",
+  image: "https://media.tacdn.com/media/attractions-splice-spp-674x446/0b/13/44/aa.jpg",
   description:
     "Trilha espetacular que atravessa o desfiladeiro de Samaria, o mais famoso da Grécia."
 },
@@ -595,24 +595,9 @@ const trails = [
   rating: 4.6,
   coordinates: { lat: 55.2408, lon: -6.5116 },
   tags: ["costeira", "falésias", "oceano"],
-  image: "https://images.unsplash.com/photo-1579982888874-9dcb83c7da6d",
+  image: "https://chimptrips.com/wp-content/uploads/2023/06/Giants-Causeway-View.jpg",
   description:
     "Percurso costeiro com falésias dramáticas, pontes suspensas e a icônica Calçada dos Gigantes."
-},
-{
-  id: 61,
-  name: "Trolltunga Hike",
-  country: "Noruega",
-  location: "Odda, Hordaland",
-  difficulty: "Difícil",
-  length_km: 28,
-  duration: "10-12 horas",
-  rating: 4.9,
-  coordinates: { lat: 60.124, lon: 6.739 },
-  tags: ["montanha", "mirante", "aventura"],
-  image: "https://images.unsplash.com/photo-1504439468489-c8920d796a29",
-  description:
-    "Uma das trilhas mais icônicas da Noruega, com a rocha suspensa sobre o fiorde como recompensa final."
 },
 {
   id: 62,
@@ -625,7 +610,7 @@ const trails = [
   rating: 4.8,
   coordinates: { lat: 58.9867, lon: 6.1903 },
   tags: ["fiorde", "mirante", "curta"],
-  image: "https://images.unsplash.com/photo-1526745947702-7c5dbd0984ab",
+  image: "https://img0.oastatic.com/img2/56037121/max/variant.jpg",
   description:
     "Um dos pontos mais fotografados da Escandinávia, com vista impressionante sobre o fiorde de Lyse."
 },
@@ -640,7 +625,7 @@ const trails = [
   rating: 4.8,
   coordinates: { lat: 44.880, lon: 15.616 },
   tags: ["lagos", "natureza", "cachoeiras"],
-  image: "https://images.unsplash.com/photo-1579446565308-427218a2dfe2",
+  image: "https://www.earthtrekkers.com/wp-content/uploads/2018/10/Lovely-Plitvice.jpg.webp",
   description:
     "Trilhas em passarelas sobre lagos turquesa e cachoeiras deslumbrantes no parque mais famoso da Croácia."
 },
@@ -655,7 +640,7 @@ const trails = [
   rating: 4.7,
   coordinates: { lat: 42.133, lon: 23.35 },
   tags: ["história", "montanha", "mosteiro"],
-  image: "https://images.unsplash.com/photo-1580643134055-bc885a61c6cb",
+  image: "https://bags-always-packed.com/wp-content/uploads/2023/07/Rila-Lakes-huts.jpg",
   description:
     "Caminho até o Mosteiro de Rila, patrimônio mundial e símbolo espiritual da Bulgária."
 },
@@ -670,7 +655,7 @@ const trails = [
   rating: 4.9,
   coordinates: { lat: 45.9763, lon: 7.6586 },
   tags: ["glaciares", "montanha", "alpes"],
-  image: "https://images.unsplash.com/photo-1529626455594-4ff0802cfb7e",
+  image: "https://www.novo-monde.com/app/uploads/2024/09/lacs-matterhorn-glacier-trail.jpg",
   description:
     "Caminho panorâmico ao pé do Matterhorn, com vistas glaciais impressionantes."
 },
@@ -685,7 +670,7 @@ const trails = [
   rating: 4.6,
   coordinates: { lat: 46.227, lon: 10.833 },
   tags: ["lagos", "alpes", "natureza"],
-  image: "https://images.unsplash.com/photo-1529626455594-4ff0802cfb7e",
+  image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiFTfsF8ajRRWWaPSw4cqJHHglKuW3caITYvvp0qjF0NPf9zeNvF47BPJAE2JvY5R8fm1B_QuR9vY51fhhgUsauShasOAl9sjxCOqcx4quTgJOeQBFjH38tKajOVPh0-zBSpwJvMQ5tjSY/s4032/Trail+-+Lago+Nero.jpg",
   description:
     "Trilha circular pelos cinco lagos alpinos de Madonna di Campiglio, com vista para os Dolomitas."
 },
@@ -700,7 +685,7 @@ const trails = [
   rating: 4.8,
   coordinates: { lat: 36.922, lon: -4.773 },
   tags: ["desfiladeiro", "aventura", "ponte suspensa"],
-  image: "https://images.unsplash.com/photo-1551538827-9c037cb4f32b",
+  image: "https://castillodemonda.com/wp-content/uploads/2021/03/camino-del-rey-6.jpg",
   description:
     "Trilha famosa pelas passarelas estreitas nas falésias do desfiladeiro de El Chorro, com vistas vertiginosas."
 },
@@ -715,7 +700,7 @@ const trails = [
   rating: 4.7,
   coordinates: { lat: 43.271, lon: -4.994 },
   tags: ["montanha", "lagos", "parque nacional"],
-  image: "https://images.unsplash.com/photo-1504450758481-7338eba752b9",
+  image: "https://www.turismoasturias.es/documents/39908/f0317ec6-df24-4385-f201-4c9003c3fdc5?t=1674176182925",
   description:
     "Caminho cênico pelos lagos glaciares de Enol e Ercina nos Picos da Europa."
 },
@@ -730,10 +715,11 @@ const trails = [
   rating: 4.8,
   coordinates: { lat: 53.068, lon: -4.076 },
   tags: ["montanha", "pico", "aventura"],
-  image: "https://images.unsplash.com/photo-1596394516093-d54c9cc2a0b2",
+  image: "https://snowdoniaslatetrail.org/wp-content/uploads/2021/10/walk-autumn-2019-alamy.jpg",
   description:
     "Trilha até o ponto mais alto do País de Gales, o Monte Snowdon, com vistas espetaculares."
 },
+//parei aqui 24/11 
 {
   id: 70,
   name: "Lysefjorden Rundt",
@@ -748,7 +734,7 @@ const trails = [
   image: "https://images.unsplash.com/photo-1506929562872-bb421503ef21",
   description:
     "Percurso completo ao redor do fiorde Lyse, incluindo Trolltunga e Preikestolen."
-},
+}, 
 {
   id: 71,
   name: "Alta Via 2",

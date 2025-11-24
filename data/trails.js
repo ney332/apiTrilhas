@@ -476,11 +476,7 @@ const trails = [
     rating: 4.8,
     coordinates: { lat: 56.8198, lon: -4.4066 },
     tags: ["lagos", "história", "montanha"],
-<<<<<<< HEAD
     image: "https://sawdays-production-assets.s3.eu-west-1.amazonaws.com/wp-content/uploads/2023/08/04090803/Walking-the-West-Highland-Way-10-e1751019511521.jpg",
-=======
-    image: "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/13/7c/47/58/img-20180624-142956-390.jpg?w=900&h=-1&s=1",
->>>>>>> fa7d28db36474184f86f6cf957e18b89f41bec5b
     description:
       "A trilha mais famosa da Escócia, passando por lagos, vales e montanhas das Terras Altas."
   },
@@ -495,11 +491,7 @@ const trails = [
     rating: 4.9,
     coordinates: { lat: 42.0396, lon: 9.0129 },
     tags: ["montanha", "longa distância", "ilha"],
-<<<<<<< HEAD
     image: "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/17/28/b9/95/gr20.jpg?w=1200&h=1200&s=1",
-=======
-    image: "https://www.corsica-aventure.com/sites/default/files/2024-11/gr20-confort-pano.jpg",
->>>>>>> fa7d28db36474184f86f6cf957e18b89f41bec5b
     description:
       "Considerada uma das trilhas mais desafiadoras da Europa, atravessando toda a ilha da Córsega de norte a sul."
   },
@@ -529,11 +521,7 @@ const trails = [
     rating: 4.7,
     coordinates: { lat: 37.6247, lon: -8.7876 },
     tags: ["costeira", "oceano", "vilas"],
-<<<<<<< HEAD
     image: "https://cdn.visitportugal.com/sites/www.visitportugal.com/files/mediateca/RotaVicentina_2079_660x371_08.jpg",
-=======
-    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyB-jDhIei8b2J_EOlrOoHpIMFKyXnb9GY9Q&s",
->>>>>>> fa7d28db36474184f86f6cf957e18b89f41bec5b
     description:
       "Trilha costeira que percorre falésias, praias e vilas de pescadores na deslumbrante costa sudoeste de Portugal."
   },
@@ -548,11 +536,7 @@ const trails = [
     rating: 4.9,
     coordinates: { lat: 47.2682, lon: 11.3933 },
     tags: ["alpes", "longa distância", "refúgios"],
-<<<<<<< HEAD
     image: "https://www.moonhoneytravel.com/wp-content/uploads/2024/03/moonhoneytravel_Wurttemberger-Haus_Lechtal-1.jpg",
-=======
-    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQax69TMnnFqPs13hjUHzZdtn_mk7iU_LoVg&s",
->>>>>>> fa7d28db36474184f86f6cf957e18b89f41bec5b
     description:
       "Extensa trilha alpina com seções deslumbrantes através do Tirol, passando por lagos e picos nevados."
   },
@@ -567,11 +551,7 @@ const trails = [
     rating: 4.8,
     coordinates: { lat: 67.9, lon: 19.7 },
     tags: ["norte", "neve", "aventura"],
-<<<<<<< HEAD
     image: "https://www.swedishlapland.com/wp-content/uploads/resized/98/3169_HStenlund_1920x1080_1920x1080_2cdfcba546a60f0ac39ebb868e2fee91.jpg",
-=======
-    image: "https://images.unsplash.com/photo-1529651737248-https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWYrGMlNp2fB0D0H1neByiG_gDOM2EV_SBLw&s",
->>>>>>> fa7d28db36474184f86f6cf957e18b89f41bec5b
     description:
       "Uma das trilhas mais selvagens da Europa, atravessando paisagens árticas e parques nacionais da Lapônia sueca."
   },{
@@ -585,11 +565,7 @@ const trails = [
   rating: 4.8,
   coordinates: { lat: 47.4, lon: 10.3 },
   tags: ["alpes", "longa distância", "aventura"],
-<<<<<<< HEAD
   image: "https://rezkit-tour-images.b-cdn.net/01h7ywwd7at70t98wdj69emng5/images/01HQNXAP3ZQZ9Y5DEZW5APKYCA.jpg?width=1600&height=1000&focus_crop=4032%2C2520%2C1831%2C1857",
-=======
-  image: "https://images.unsplash.com/photo-1508261303786-https://img.eurohike.at/w_420,h_420,q_80,v_2d7875,hash_030a87/ddcijcnkv/image/upload/v1734598479/eurohike/gestaltung/site-header/wanderwege/eurohike-wanderreisen-alpenueberquerung-e5.jpg",
->>>>>>> fa7d28db36474184f86f6cf957e18b89f41bec5b
   description:
     "Cruza os Alpes da Alemanha até a Itália, passando por vilas alpinas, vales e glaciares."
 },
@@ -604,11 +580,7 @@ const trails = [
   rating: 4.7,
   coordinates: { lat: 35.2711, lon: 23.9633 },
   tags: ["desfiladeiro", "ilha", "parque nacional"],
-<<<<<<< HEAD
   image: "https://media.tacdn.com/media/attractions-splice-spp-674x446/0b/13/44/aa.jpg",
-=======
-  image: "https://cdn.kimkim.com/files/a/content_articles/featured_photos/ac32f5aea22235c22f156a98f0abfbae8ee4e3b4/big-5ce3d65d57af86cefa874306d0ac0605.jpg",
->>>>>>> fa7d28db36474184f86f6cf957e18b89f41bec5b
   description:
     "Trilha espetacular que atravessa o desfiladeiro de Samaria, o mais famoso da Grécia."
 },
@@ -623,33 +595,11 @@ const trails = [
   rating: 4.6,
   coordinates: { lat: 55.2408, lon: -6.5116 },
   tags: ["costeira", "falésias", "oceano"],
-<<<<<<< HEAD
   image: "https://chimptrips.com/wp-content/uploads/2023/06/Giants-Causeway-View.jpg",
-=======
-  image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3AFlyMBWYqVDIm6HtZeqIfPzWiuTFeou7nw&s",
->>>>>>> fa7d28db36474184f86f6cf957e18b89f41bec5b
   description:
     "Percurso costeiro com falésias dramáticas, pontes suspensas e a icônica Calçada dos Gigantes."
 },
 {
-<<<<<<< HEAD
-=======
-  id: 61,
-  name: "Trolltunga Hike",
-  country: "Noruega",
-  location: "Odda, Hordaland",
-  difficulty: "Difícil",
-  length_km: 28,
-  duration: "10-12 horas",
-  rating: 4.9,
-  coordinates: { lat: 60.124, lon: 6.739 },
-  tags: ["montanha", "mirante", "aventura"],
-  image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpp3_0kRhkDbirhmCAxWUQR5TTt3nm9zCk9w&s",
-  description:
-    "Uma das trilhas mais icônicas da Noruega, com a rocha suspensa sobre o fiorde como recompensa final."
-},
-{
->>>>>>> fa7d28db36474184f86f6cf957e18b89f41bec5b
   id: 62,
   name: "Preikestolen (Pulpit Rock)",
   country: "Noruega",
@@ -660,11 +610,7 @@ const trails = [
   rating: 4.8,
   coordinates: { lat: 58.9867, lon: 6.1903 },
   tags: ["fiorde", "mirante", "curta"],
-<<<<<<< HEAD
   image: "https://img0.oastatic.com/img2/56037121/max/variant.jpg",
-=======
-  image: "https://static.wixstatic.com/media/611259_2dc9cb054004487a90b0634029096bf4~mv2.jpg/v1/fill/w_999,h_667,al_c,q_85,enc_avif,quality_auto/611259_2dc9cb054004487a90b0634029096bf4~mv2.jpg",
->>>>>>> fa7d28db36474184f86f6cf957e18b89f41bec5b
   description:
     "Um dos pontos mais fotografados da Escandinávia, com vista impressionante sobre o fiorde de Lyse."
 },
@@ -679,11 +625,7 @@ const trails = [
   rating: 4.8,
   coordinates: { lat: 44.880, lon: 15.616 },
   tags: ["lagos", "natureza", "cachoeiras"],
-<<<<<<< HEAD
   image: "https://www.earthtrekkers.com/wp-content/uploads/2018/10/Lovely-Plitvice.jpg.webp",
-=======
-  image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqbfAQAfFLdZQtuSe8hBPe8Aq732zqscKCcQ&s",
->>>>>>> fa7d28db36474184f86f6cf957e18b89f41bec5b
   description:
     "Trilhas em passarelas sobre lagos turquesa e cachoeiras deslumbrantes no parque mais famoso da Croácia."
 },
@@ -698,11 +640,7 @@ const trails = [
   rating: 4.7,
   coordinates: { lat: 42.133, lon: 23.35 },
   tags: ["história", "montanha", "mosteiro"],
-<<<<<<< HEAD
   image: "https://bags-always-packed.com/wp-content/uploads/2023/07/Rila-Lakes-huts.jpg",
-=======
-  image: "https://media.tacdn.com/media/attractions-splice-spp-674x446/06/6b/6f/be.jpg",
->>>>>>> fa7d28db36474184f86f6cf957e18b89f41bec5b
   description:
     "Caminho até o Mosteiro de Rila, patrimônio mundial e símbolo espiritual da Bulgária."
 },
@@ -717,21 +655,10 @@ const trails = [
   rating: 4.9,
   coordinates: { lat: 45.9763, lon: 7.6586 },
   tags: ["glaciares", "montanha", "alpes"],
-<<<<<<< HEAD
   image: "https://www.novo-monde.com/app/uploads/2024/09/lacs-matterhorn-glacier-trail.jpg",
-=======
-  image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQO48zUIaIsaKlWTztqSyxEPt-ROtEYp_Vtbg&s",
->>>>>>> fa7d28db36474184f86f6cf957e18b89f41bec5b
   description:
     "Caminho panorâmico ao pé do Matterhorn, com vistas glaciais impressionantes."
 },
-//parei aqui
-
-
-
-
-
-
 {
   id: 66,
   name: "Cinque Laghi Trail",
@@ -792,7 +719,7 @@ const trails = [
   description:
     "Trilha até o ponto mais alto do País de Gales, o Monte Snowdon, com vistas espetaculares."
 },
-//parei aqui 24/11 
+//parei aqui 24/11 /
 {
   id: 70,
   name: "Lysefjorden Rundt",
@@ -807,7 +734,7 @@ const trails = [
   image: "https://images.unsplash.com/photo-1506929562872-bb421503ef21",
   description:
     "Percurso completo ao redor do fiorde Lyse, incluindo Trolltunga e Preikestolen."
-}, 
+},
 {
   id: 71,
   name: "Alta Via 2",

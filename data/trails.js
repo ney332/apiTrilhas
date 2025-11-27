@@ -1128,7 +1128,7 @@ const trails = [
     rating: 4.9,
     coordinates: { lat: -28.0030, lon: -49.6400 },
     tags: ["montanha", "escalada", "vista panorâmica"],
-    image: "https://example.com/pedra-furada.jpg",
+    image: "https://urubicitrail.com.br/wp-content/uploads/2021/12/TRILHA-PEDRA-FURADA-02.jpg",
     description: "Trilha desafiadora que leva à famosa Pedra Furada, com vista do Morro da Igreja."
   },
   {
@@ -1142,22 +1142,8 @@ const trails = [
     rating: 4.9,
     coordinates: { lat: -3.8550, lon: -32.4290 },
     tags: ["praia", "mergulho", "natureza"],
-    image: "https://example.com/praia-sancho.jpg",
+    image: "https://turisnews.com.br/wp-content/uploads/2023/11/Praia-do-Sancho.jpg",
     description: "Curta trilha que leva à paradisíaca Praia do Sancho, ideal para banho e mergulho."
-  },
-  {
-    id: 107,
-    name: "Trilha da Cachoeira da Fumaça",
-    country: "Brasil",
-    location: "Chapada Diamantina (BA)",
-    difficulty: "Moderada",
-    length_km: 6,
-    duration: "3-4 horas",
-    rating: 4.8,
-    coordinates: { lat: -12.5170, lon: -41.4020 },
-    tags: ["cachoeira", "natureza", "paisagem"],
-    image: "https://example.com/cachoeira-fumaca.jpg",
-    description: "Trilha famosa que leva à impressionante Cachoeira da Fumaça, a maior do Brasil."
   },
   {
     id: 108,
@@ -1170,7 +1156,7 @@ const trails = [
     rating: 4.9,
     coordinates: { lat: -12.9806, lon: -41.5244 },
     tags: ["trekking", "cânion", "cachoeira", "natureza"],
-    image: "https://example.com/vale-do-pati.jpg",
+    image: "https://upload.wikimedia.org/wikipedia/commons/6/6f/Vale_do_Pati_-_Chapada_Diamantina.JPG",
     description: "Uma das mais famosas trilhas de longo curso, percorrendo um vale espetacular."
   },
   {
@@ -1184,23 +1170,10 @@ const trails = [
     rating: 4.7,
     coordinates: { lat: -22.9983, lon: -43.2750 },
     tags: ["urbana", "escalada", "vista panorâmica"],
-    image: "https://example.com/pedra-da-gavea.jpg",
+    image: "https://i.pinimg.com/736x/00/1e/42/001e429e92e1e091c80efd965af1aee8.jpg",
     description: "Trilha icônica do Rio de Janeiro com trecho final desafiador e vista 360º."
   },
-  {
-    id: 110,
-    name: "Trilha do Morro da Urca",
-    country: "Brasil",
-    location: "Rio de Janeiro (RJ)",
-    difficulty: "Fácil",
-    length_km: 1.5,
-    duration: "1 hora",
-    rating: 4.9,
-    coordinates: { lat: -22.9485, lon: -43.1550 },
-    tags: ["urbana", "vista panorâmica", "turística"],
-    image: "https://example.com/morro-urca.jpg",
-    description: "Trilha curta com vista para o Pão de Açúcar e a Baía de Guanabara."
-  },
+ 
   {
     id: 111,
     name: "Trilha das Cachoeiras do Rio Preto",
@@ -1212,7 +1185,7 @@ const trails = [
     rating: 4.8,
     coordinates: { lat: -14.1200, lon: -47.7800 },
     tags: ["cachoeira", "cerrado", "piscinas naturais"],
-    image: "https://example.com/saltos-veadeiros.jpg",
+    image: "https://s0.wklcdn.com/image_115/3454607/26752973/17086638Master.jpg",
     description: "Circuito com duas principais cachoeiras e piscinas naturais para banho."
   },
   {
@@ -1226,7 +1199,7 @@ const trails = [
     rating: 4.9,
     coordinates: { lat: -22.4578, lon: -43.0453 },
     tags: ["montanha", "escalada", "desafio"],
-    image: "https://example.com/dedo-de-deus.jpg",
+    image: "https://www.viajali.com.br/wp-content/uploads/2022/04/dedo-de-deus-9.jpg",
     description: "Trilha icônica com escalada final até o topo do Dedo de Deus."
   },
   {
@@ -1254,7 +1227,7 @@ const trails = [
     rating: 4.7,
     coordinates: { lat: -22.093, lon: -67.861 },
     tags: ["laguna", "aves", "paisagem"],
-    image: "https://images.unsplash.com/photo-1581092330504-35ee8b6d7a57",
+    image: "https://leadingperutravel.com/wp-content/uploads/The-Singular-Beauty-of-Laguna-Colorada-1.webp",
     description: "Lago vermelho com flamingos e paisagens deslumbrantes no altiplano boliviano."
   },
   {
@@ -1268,7 +1241,7 @@ const trails = [
     rating: 4.8,
     coordinates: { lat: -16.527, lon: -68.272 },
     tags: ["canyon", "montanha", "aventura"],
-    image: "https://images.unsplash.com/photo-1579389081365-afe79b1b4727",
+    image: "https://www.una-noche-mas.com/wp-content/uploads/2024/10/wp-1729969888950382752784659587893.jpg",
     description: "Trilha de descida íngreme dos Andes para a floresta amazônica, cheia de rios e vegetação."
   },
   {
@@ -1282,23 +1255,10 @@ const trails = [
     rating: 4.7,
     coordinates: { lat: -0.893, lon: -78.898 },
     tags: ["volcânico", "cratera", "cultural"],
-    image: "https://images.unsplash.com/photo-1604825029378-0c0ff456e4cd",
+    image: "https://www.muchbetteradventures.com/magazine/content/images/2024/01/quilotoa-crater-lake.jpg",
     description: "Caminhada circular pelo altiplano equatoriano, com vistas da lagoa da cratera e vilarejos indígenas."
   },
-  {
-    id: 116,
-    name: "Valle de la Luna",
-    country: "Chile",
-    location: "Deserto do Atacama",
-    difficulty: "Fácil",
-    length_km: 7,
-    duration: "2-3 horas",
-    rating: 4.6,
-    coordinates: { lat: -22.907, lon: -68.199 },
-    tags: ["deserto", "formações rochosas", "paisagem lunar"],
-    image: "https://images.unsplash.com/photo-1589395595557-4f8929c09a1d",
-    description: "Trilha em terreno lunar no Atacama, perfeita para fotografia e pôr do sol."
-  },
+
   {
     id: 117,
     name: "Cerro San Cristóbal",
@@ -1313,20 +1273,7 @@ const trails = [
     image: "https://images.unsplash.com/photo-1602692470114-99a5fc197ba4",
     description: "Subida popular em Santiago com mirantes panorâmicos e acesso a santuário no topo."
   },
-  {
-    id: 118,
-    name: "Valle de Cocora",
-    country: "Colômbia",
-    location: "Salento, Quindío",
-    difficulty: "Moderada",
-    length_km: 12,
-    duration: "5-6 horas",
-    rating: 4.7,
-    coordinates: { lat: 4.637, lon: -75.5119 },
-    tags: ["palmeiras", "montanha", "natureza"],
-    image: "https://images.unsplash.com/photo-1528234601238-cc0d9c5e0d9a",
-    description: "Caminhada entre as altas palmeiras de cera e colinas verdes da região cafeeira."
-  },
+  
   {
     id: 119,
     name: "Los Nevados National Park",
@@ -1338,51 +1285,10 @@ const trails = [
     rating: 4.8,
     coordinates: { lat: 4.975, lon: -75.324 },
     tags: ["volcânico", "montanha", "gelo"],
-    image: "https://images.unsplash.com/photo-1582655699918-fb3c33a1e7ef",
+    image: "https://www.wolfmiu.com/cdn/shop/files/2.-Paramo--web_1024x1024.jpg?v=1714170355",
     description: "Parque nacional com picos nevados, lagunas e diversidade de flora andina."
   },
-  {
-    id: 120,
-    name: "Laguna 69",
-    country: "Peru",
-    location: "Parque Nacional Huascarán, Ancash",
-    difficulty: "Difícil",
-    length_km: 12,
-    duration: "6-7 horas",
-    rating: 4.9,
-    coordinates: { lat: -9.144, lon: -77.636 },
-    tags: ["montanha", "lago glacial", "alta altitude"],
-    image: "https://images.unsplash.com/photo-1570163233325-1fa2174d2d4b",
-    description: "Trilha clássica aos pés de montanhas nevadas, famosa pelo lago de águas turquesa."
-  },
-  {
-    id: 121,
-    name: "Inca Trail",
-    country: "Peru",
-    location: "Cusco a Machu Picchu",
-    difficulty: "Difícil",
-    length_km: 42,
-    duration: "4 dias",
-    rating: 4.9,
-    coordinates: { lat: -13.163, lon: -72.545 },
-    tags: ["histórico", "montanha", "cultural"],
-    image: "https://images.unsplash.com/photo-1506288101461-61a3f7ef70b4",
-    description: "Trilha histórica com ruínas incas, montanhas e paisagens incríveis até Machu Picchu."
-  },
-  {
-    id: 122,
-    name: "Salkantay Trek",
-    country: "Peru",
-    location: "Cusco a Machu Picchu",
-    difficulty: "Difícil",
-    length_km: 72,
-    duration: "5 dias",
-    rating: 4.8,
-    coordinates: { lat: -13.281, lon: -72.608 },
-    tags: ["montanha", "glacial", "cultural"],
-    image: "https://images.unsplash.com/photo-1594228572928-d51a17dfcb8b",
-    description: "Alternativa ao Inca Trail, passando por montanhas nevadas, florestas e rios."
-  },
+
   {
     id: 123,
     name: "Santa Cruz Trek",
@@ -1408,23 +1314,10 @@ const trails = [
     rating: 4.9,
     coordinates: { lat: -32.653, lon: -70.010 },
     tags: ["montanha", "pico", "alta altitude"],
-    image: "https://images.unsplash.com/photo-1597903899056-002a85cc5d92",
+    image: "https://shortgirlontour.com/wp-content/uploads/2024/02/20231228_113116.jpg",
     description: "Caminhada até o acampamento base do Aconcágua, a montanha mais alta das Américas."
   },
-  {
-    id: 125,
-    name: "Fitz Roy Trek",
-    country: "Argentina",
-    location: "El Chaltén, Patagonia",
-    difficulty: "Moderada",
-    length_km: 20,
-    duration: "1 dia",
-    rating: 4.9,
-    coordinates: { lat: -49.270, lon: -72.886 },
-    tags: ["montanha", "glacial", "paisagem"],
-    image: "https://images.unsplash.com/photo-1602019387847-8a4e4a99f1e3",
-    description: "Trilha panorâmica até o monte Fitz Roy, famosa por paisagens de montanhas e lagos."
-  },
+  
   {
     id: 126,
     name: "Laguna Torre",
@@ -1436,23 +1329,10 @@ const trails = [
     rating: 4.8,
     coordinates: { lat: -49.300, lon: -73.020 },
     tags: ["glacial", "montanha", "lago"],
-    image: "https://images.unsplash.com/photo-1610198474073-f88e8c3f5f1b",
+    image: "https://walk-trek.tur.ar/wp-content/uploads/2019/08/q1-.Laguna-Torre-6-1024x576.jpg",
     description: "Trilha até a lagoa com vistas do Cerro Torre e geleiras próximas."
   },
-  {
-    id: 127,
-    name: "Huayna Picchu",
-    country: "Peru",
-    location: "Machu Picchu",
-    difficulty: "Difícil",
-    length_km: 2.5,
-    duration: "2-3 horas",
-    rating: 4.9,
-    coordinates: { lat: -13.163, lon: -72.544 },
-    tags: ["montanha", "histórico", "vista"],
-    image: "https://images.unsplash.com/photo-1579799601452-0d9916decb1e",
-    description: "Trilha íngreme atrás de Machu Picchu, com vistas panorâmicas incríveis do sítio arqueológico."
-  },
+ 
   {
     id: 128,
     name: "Cordillera Huayhuash Circuit",
@@ -1464,22 +1344,8 @@ const trails = [
     rating: 4.9,
     coordinates: { lat: -10.400, lon: -76.850 },
     tags: ["montanha", "glacial", "circuito"],
-    image: "https://images.unsplash.com/photo-1589235621491-57e37841fbc0",
+    image: "https://www.huayhuash.com/images/three_lakes.jpg",
     description: "Circuito de trekking remoto, cercado por picos de mais de 6.000m, lagunas e geleiras."
-  },
-  {
-    id: 129,
-    name: "Torres del Paine W Trek",
-    country: "Chile",
-    location: "Parque Nacional Torres del Paine",
-    difficulty: "Difícil",
-    length_km: 80,
-    duration: "5 dias",
-    rating: 4.9,
-    coordinates: { lat: -50.942, lon: -73.406 },
-    tags: ["montanha", "lago", "glacial"],
-    image: "https://images.unsplash.com/photo-1578427390932-5d18eb3072cd",
-    description: "Trilha famosa na Patagônia chilena, passando por torres, vales e lagos cristalinos."
   },
   {
     id: 130,
@@ -1492,7 +1358,7 @@ const trails = [
     rating: 4.9,
     coordinates: { lat: -51.000, lon: -73.000 },
     tags: ["glacial", "montanha", "lagos"],
-    image: "https://images.unsplash.com/photo-1578427390942-0e0dcf6f0c0c",
+    image: "https://ciatrip-uploads.s3.us-east-2.amazonaws.com/wp-content/uploads/2024/12/puentes-colgantes-glaciar-grey.jpg",
     description: "Extensão do W Trek que inclui caminhada até a geleira Grey, oferecendo vistas espetaculares."
   },
   {
@@ -1506,7 +1372,7 @@ const trails = [
     rating: 4.7,
     coordinates: { lat: -0.680, lon: -78.437 },
     tags: ["volcânico", "alta altitude", "montanha"],
-    image: "https://images.unsplash.com/photo-1589017044071-d738f591a3d4",
+    image: "https://theportuguesetraveler.com/wp-content/uploads/2024/08/climbing-cotopaxi-volcano-15.jpg.webp",
     description: "Caminhada até a base do vulcão ativo Cotopaxi, um dos mais altos do Equador."
   },
   {
@@ -1520,7 +1386,7 @@ const trails = [
     rating: 4.8,
     coordinates: { lat: -1.467, lon: -78.817 },
     tags: ["montanha", "glacial", "alta altitude"],
-    image: "https://images.unsplash.com/photo-1594228572928-d51a17dfcb8c",
+    image: "https://assets.howlanders.com/en/tours-ecuador/riobamba/chimborazo-climb/timeline/riobamba-city.jpg",
     description: "Ascensão ao ponto mais próximo do sol na Terra, com vistas espetaculares da cordilheira."
   },
   {
@@ -1534,37 +1400,10 @@ const trails = [
     rating: 4.6,
     coordinates: { lat: -18.121, lon: -68.881 },
     tags: ["lagoa", "paisagem", "volcânico"],
-    image: "https://images.unsplash.com/photo-1581092330504-35ee8b6d7a57",
+    image: "https://www.kuodatravel.com/wp-content/uploads/2022/02/sajama-park-huanakota-lake.jpg",
     description: "Trilha de altitude com lagunas e vistas para vulcões nevados no parque nacional Sajama."
   },
-  {
-    id: 134,
-    name: "Chachani Volcano Trek",
-    country: "Peru",
-    location: "Arequipa",
-    difficulty: "Difícil",
-    length_km: 20,
-    duration: "1 dia",
-    rating: 4.7,
-    coordinates: { lat: -16.382, lon: -71.531 },
-    tags: ["volcânico", "alta altitude", "montanha"],
-    image: "https://images.unsplash.com/photo-1570163233325-1fa2174d2d4b",
-    description: "Subida ao Chachani com vistas da cidade de Arequipa e vulcões ao redor."
-  },
-  {
-    id: 135,
-    name: "Cajón del Maipo",
-    country: "Chile",
-    location: "Região Metropolitana",
-    difficulty: "Moderada",
-    length_km: 18,
-    duration: "6 horas",
-    rating: 4.6,
-    coordinates: { lat: -33.618, lon: -70.345 },
-    tags: ["montanha", "rio", "cânion"],
-    image: "https://images.unsplash.com/photo-1602019387847-8a4e4a99f1e3",
-    description: "Trilhas próximas a Santiago com rios, cânions e mirantes."
-  },
+
   {
     id: 136,
     name: "Mount Roraima Trek",
@@ -1576,65 +1415,10 @@ const trails = [
     rating: 4.9,
     coordinates: { lat: 5.153, lon: -60.765 },
     tags: ["tepui", "montanha", "deserto"],
-    image: "https://images.unsplash.com/photo-1561484930-6d5a0b989cb6",
+    image: "https://www.hike-venezuela.com/media/roraima-north-large.jpg",
     description: "Caminhada até o topo da montanha em formato de mesa, inspiração para 'Up – Altas Aventuras'."
   },
-  {
-    id: 137,
-    name: "El Morado Glacier Trek",
-    country: "Chile",
-    location: "Região Metropolitana",
-    difficulty: "Difícil",
-    length_km: 10,
-    duration: "6 horas",
-    rating: 4.7,
-    coordinates: { lat: -33.200, lon: -70.150 },
-    tags: ["glacial", "montanha", "paisagem"],
-    image: "https://images.unsplash.com/photo-1578427390942-0e0dcf6f0c0c",
-    description: "Trilha para o Glaciar El Morado, ideal para quem busca aventura e vistas alpinas."
-  },
-  {
-    id: 138,
-    name: "Parque Nacional Natural Los Nevados",
-    country: "Colômbia",
-    location: "Tolima",
-    difficulty: "Difícil",
-    length_km: 20,
-    duration: "2 dias",
-    rating: 4.8,
-    coordinates: { lat: 4.975, lon: -75.324 },
-    tags: ["montanha", "volcânico", "alta altitude"],
-    image: "https://images.unsplash.com/photo-1582655699918-fb3c33a1e7ef",
-    description: "Trilhas em picos nevados e lagunas de altitude, típicas da cordilheira colombiana."
-  },
-  {
-    id: 139,
-    name: "Laguna Parón",
-    country: "Peru",
-    location: "Huaraz, Cordillera Blanca",
-    difficulty: "Moderada",
-    length_km: 8,
-    duration: "4 horas",
-    rating: 4.7,
-    coordinates: { lat: -9.240, lon: -77.520 },
-    tags: ["lagoa", "montanha", "paisagem"],
-    image: "https://images.unsplash.com/photo-1604825029378-0c0ff456e4cd",
-    description: "Trilha curta até a lagoa mais famosa da Cordillera Blanca, cercada de montanhas nevadas."
-  },
-  {
-    id: 140,
-    name: "Cotopaxi Rucu Pichincha",
-    country: "Equador",
-    location: "Quito",
-    difficulty: "Difícil",
-    length_km: 14,
-    duration: "6-7 horas",
-    rating: 4.7,
-    coordinates: { lat: -0.225, lon: -78.510 },
-    tags: ["volcânico", "montanha", "vista"],
-    image: "https://images.unsplash.com/photo-1589017044071-d738f591a3d4",
-    description: "Subida popular para o Rucu Pichincha com vista panorâmica da cidade de Quito."
-  },
+
   {
     id: 141,
     name: "Cerro Uritorco",
@@ -1646,36 +1430,8 @@ const trails = [
     rating: 4.6,
     coordinates: { lat: -31.783, lon: -64.517 },
     tags: ["montanha", "mística", "paisagem"],
-    image: "https://images.unsplash.com/photo-1610198474073-f88e8c3f5f1b",
+    image: "https://s1.wklcdn.com/image_83/2517120/36639105/23724220.700x525.jpg",
     description: "Montanha famosa por suas lendas e trilha de subida com vistas panorâmicas."
-  },
-  {
-    id: 142,
-    name: "Sierra Nevada del Cocuy",
-    country: "Colômbia",
-    location: "Boyacá",
-    difficulty: "Difícil",
-    length_km: 25,
-    duration: "3 dias",
-    rating: 4.8,
-    coordinates: { lat: 6.300, lon: -72.250 },
-    tags: ["montanha", "glacial", "alta altitude"],
-    image: "https://images.unsplash.com/photo-1602692470114-99a5fc197ba4",
-    description: "Trilhas em picos nevados e lagunas glaciais, muito procuradas por montanhistas."
-  },
-  {
-    id: 143,
-    name: "Parque Nacional El Cajas",
-    country: "Equador",
-    location: "Azuay",
-    difficulty: "Moderada",
-    length_km: 20,
-    duration: "1 dia",
-    rating: 4.7,
-    coordinates: { lat: -2.900, lon: -79.300 },
-    tags: ["lagunas", "montanha", "paisagem"],
-    image: "https://images.unsplash.com/photo-1583295880870-5d2f0b0441a4",
-    description: "Trilhas entre lagunas e picos andinos, perfeitas para trekking de dia inteiro."
   },
   {
     id: 144,
@@ -1692,34 +1448,6 @@ const trails = [
     description: "Trilhas pelo altiplano com lagunas e vulcões, avistamento de vicuñas e flamingos."
   },
   {
-    id: 145,
-    name: "Parque Nacional Huascarán",
-    country: "Peru",
-    location: "Ancash",
-    difficulty: "Difícil",
-    length_km: 20,
-    duration: "2 dias",
-    rating: 4.8,
-    coordinates: { lat: -9.250, lon: -77.500 },
-    tags: ["montanha", "glacial", "alta altitude"],
-    image: "https://images.unsplash.com/photo-1570163233325-1fa2174d2d4b",
-    description: "Parque com picos nevados e lagunas de altitude, excelente para trekking e fotografia."
-  },
-  {
-    id: 146,
-    name: "Nevado del Ruiz",
-    country: "Colômbia",
-    location: "Tolima",
-    difficulty: "Difícil",
-    length_km: 10,
-    duration: "1 dia",
-    rating: 4.7,
-    coordinates: { lat: 4.895, lon: -75.322 },
-    tags: ["volcânico", "glacial", "montanha"],
-    image: "https://images.unsplash.com/photo-1582655699918-fb3c33a1e7ef",
-    description: "Trilha até a base do vulcão Nevado del Ruiz, com paisagens glaciais impressionantes."
-  },
-  {
     id: 147,
     name: "Laguna Humantay",
     country: "Peru",
@@ -1730,7 +1458,7 @@ const trails = [
     rating: 4.8,
     coordinates: { lat: -13.511, lon: -72.537 },
     tags: ["lagoa", "montanha", "alta altitude"],
-    image: "https://images.unsplash.com/photo-1604825029378-0c0ff456e4cd",
+    image: "https://conociendo.cl/storage/2023/04/saltodelmaule.jpg",
     description: "Trilha popular para lagoa glacial turquesa, com vista para os Andes peruanos."
   },
   {
@@ -1758,7 +1486,7 @@ const trails = [
     rating: 4.7,
     coordinates: { lat: -12.840, lon: -69.300 },
     tags: ["floresta", "biodiversidade", "aves"],
-    image: "https://images.unsplash.com/photo-1579799601452-0d9916decb1e",
+    image: "https://gochile.com.br/fotos/full/110671-tambopata.jpg",
     description: "Trilhas na floresta amazônica, ricas em fauna e flora, perfeitas para observação de aves."
   },
   {
@@ -1772,7 +1500,7 @@ const trails = [
     rating: 4.8,
     coordinates: { lat: -12.200, lon: -71.300 },
     tags: ["floresta", "biodiversidade", "trilhas"],
-    image: "https://images.unsplash.com/photo-1583295880870-5d2f0b0441a4",
+    image: "https://www.salkantaytrilha.com/blog/wp-content/uploads/2024/11/Manu-National-Park-1-1024x683.jpg",
     description: "Parque com alta biodiversidade, trilhas em floresta tropical e rios cristalinos."
   }
 

@@ -1433,20 +1433,7 @@ const trails = [
     image: "https://s1.wklcdn.com/image_83/2517120/36639105/23724220.700x525.jpg",
     description: "Montanha famosa por suas lendas e trilha de subida com vistas panorâmicas."
   },
-  {
-    id: 144,
-    name: "Parque Nacional Lauca",
-    country: "Chile",
-    location: "Arica y Parinacota",
-    difficulty: "Moderada",
-    length_km: 15,
-    duration: "1 dia",
-    rating: 4.6,
-    coordinates: { lat: -18.200, lon: -69.900 },
-    tags: ["altiplano", "laguna", "volcânico"],
-    image: "https://images.unsplash.com/photo-1602019387847-8a4e4a99f1e3",
-    description: "Trilhas pelo altiplano com lagunas e vulcões, avistamento de vicuñas e flamingos."
-  },
+  
   {
     id: 147,
     name: "Laguna Humantay",
@@ -1461,20 +1448,7 @@ const trails = [
     image: "https://conociendo.cl/storage/2023/04/saltodelmaule.jpg",
     description: "Trilha popular para lagoa glacial turquesa, com vista para os Andes peruanos."
   },
-  {
-    id: 148,
-    name: "Valle de los Cóndores",
-    country: "Peru",
-    location: "Arequipa",
-    difficulty: "Moderada",
-    length_km: 8,
-    duration: "3-4 horas",
-    rating: 4.6,
-    coordinates: { lat: -15.783, lon: -71.500 },
-    tags: ["montanha", "aves", "paisagem"],
-    image: "https://images.unsplash.com/photo-1581092330504-35ee8b6d7a57",
-    description: "Caminhada em cânion onde se podem observar cóndores e formações rochosas incríveis."
-  },
+ 
   {
     id: 149,
     name: "Reserva Nacional Tambopata",

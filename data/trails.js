@@ -39,7 +39,7 @@ const trails = [
   rating: 4.8,
   coordinates: { lat: -22.8830, lon: -43.5320 },
   tags: ["cachoeira", "natureza", "trilha", "piscina natural"],
-  image: "https:/https://i.pinimg.com/1200x/54/87/d8/5487d8887cd98e18d6e100a8974662a0.jpg",
+  image: "https://i.pinimg.com/1200x/54/87/d8/5487d8887cd98e18d6e100a8974662a0.jpg",
   description:
     "Cachoeira com quedas d’água e piscinas naturais em meio à Mata Atlântica da Zona Oeste do Rio de Janeiro — ideal para banho, trilha e rapel, com acesso razoavelmente curto e natureza exuberante."
 },

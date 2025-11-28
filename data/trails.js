@@ -1,5 +1,49 @@
 const trails = [
+    {
+    id: 144,
+    name: "Cataratas do Iguaçu",
+    country: "Brasil",
+    location: "Parque Nacional do Iguaçu (Foz do Iguaçu - PR)",
+    difficulty: "Fácil",
+    length_km: 3,
+    duration: "1-2 horas",
+    rating: 4.9,
+    coordinates: { lat: -25.6953, lon: -54.4367 },
+    tags: ["cachoeira", "natureza", "turismo", "patrimônio natural"],
+    image: "https://i.pinimg.com/1200x/13/d8/bd/13d8bd5d7ac1bf0d4fc6de29a9832f57.jpg",
+    description:
+      "As Cataratas do Iguaçu são um conjunto de cerca de 275 quedas d’água, consideradas uma das Sete Maravilhas Naturais do Mundo, oferecendo trilhas acessíveis e vistas impressionantes da Garganta do Diabo."
+  },
   {
+    id: 109,
+    name: "Trilha da Pedra da Gávea",
+    country: "Brasil",
+    location: "Rio de Janeiro (RJ)",
+    difficulty: "Extrema",
+    length_km: 8.4,
+    duration: "6-8 horas",
+    rating: 4.7,
+    coordinates: { lat: -22.9983, lon: -43.2750 },
+    tags: ["urbana", "escalada", "vista panorâmica"],
+    image: "https://i.pinimg.com/736x/00/1e/42/001e429e92e1e091c80efd965af1aee8.jpg",
+    description: "Trilha icônica do Rio de Janeiro com trecho final desafiador e vista 360º."
+  },
+  {
+  id: 145,
+  name: "Cachoeira do Mendanha",
+  country: "Brasil",
+  location: "Parque Estadual do Mendanha (Campo Grande, RJ)",
+  difficulty: "Moderada",
+  length_km: 2.5,
+  duration: "1-2 horas",
+  rating: 4.8,
+  coordinates: { lat: -22.8830, lon: -43.5320 },
+  tags: ["cachoeira", "natureza", "trilha", "piscina natural"],
+  image: "https:/https://i.pinimg.com/1200x/54/87/d8/5487d8887cd98e18d6e100a8974662a0.jpg",
+  description:
+    "Cachoeira com quedas d’água e piscinas naturais em meio à Mata Atlântica da Zona Oeste do Rio de Janeiro — ideal para banho, trilha e rapel, com acesso razoavelmente curto e natureza exuberante."
+},
+{
     id: 13,
     name: "Pico da Bandeira",
     country: "Brasil",
@@ -924,20 +968,6 @@ const trails = [
     description: "Uma das mais famosas trilhas de longo curso, percorrendo um vale espetacular com rios, cachoeiras e pernoite nas casas de moradores locais."
   },
   {
-    id: 90,
-    name: "Pedra da Gávea",
-    country: "Brasil",
-    location: "Parque Nacional da Tijuca, RJ",
-    difficulty: "Extrema (com trecho de escalada)",
-    length_km: 8.4,
-    duration: "6-8 horas",
-    rating: 4.7,
-    coordinates: { lat: -22.9983, lon: -43.2750 },
-    tags: ["urbana", "escalada", "vista panorâmica", "floresta"],
-    image: "https://example.com/pedra-da-gavea.jpg",
-    description: "Trilha icônica do Rio de Janeiro, com trecho final desafiador (Carrasqueira) e vista 360º da cidade, praias e Floresta da Tijuca."
-  },
-  {
     id: 91,
     name: "Trilha do Rio do Boi",
     country: "Brasil",
@@ -1159,21 +1189,6 @@ const trails = [
     image: "https://upload.wikimedia.org/wikipedia/commons/6/6f/Vale_do_Pati_-_Chapada_Diamantina.JPG",
     description: "Uma das mais famosas trilhas de longo curso, percorrendo um vale espetacular."
   },
-  {
-    id: 109,
-    name: "Trilha da Pedra da Gávea",
-    country: "Brasil",
-    location: "Rio de Janeiro (RJ)",
-    difficulty: "Extrema",
-    length_km: 8.4,
-    duration: "6-8 horas",
-    rating: 4.7,
-    coordinates: { lat: -22.9983, lon: -43.2750 },
-    tags: ["urbana", "escalada", "vista panorâmica"],
-    image: "https://i.pinimg.com/736x/00/1e/42/001e429e92e1e091c80efd965af1aee8.jpg",
-    description: "Trilha icônica do Rio de Janeiro com trecho final desafiador e vista 360º."
-  },
- 
   {
     id: 111,
     name: "Trilha das Cachoeiras do Rio Preto",
